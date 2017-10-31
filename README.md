@@ -1,5 +1,4 @@
-## cindygao.com ...some general musings and personal projects
-
+## some general musings and personal projects
 
 
 #### people you don't know but should
