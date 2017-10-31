@@ -1,5 +1,5 @@
-# cindygao.com
-some general musings and personal projects
+## cindygao.com
+...some general musings and personal projects
 
 ### people you don't know but should
 - asian-american / immigrant heroes
