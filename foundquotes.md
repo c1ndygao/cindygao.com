@@ -54,3 +54,23 @@ marisha pessl, special topics in calamity physics
 
 > after 73 years of anguish i have found a cure, however. you must go home again, grit your teeth and however arduous the exercise, determine, without embellishment, your exact coordinates at Home, your longitudes and latitudes. only then, will you stop looking back and see the spectacular view in front of you.
 
+<br/>
+
+eternal sunshine of the spotless mind
+
+> we met at the wrong time. that’s what i keep telling myself anyway. maybe one day years from now, we’ll meet in a coffee shop in a far away city somewhere and we could give it another shot.
+
+<br/>
+
+jamie tworkowski
+
+> you’ll need coffee shops and sunsets and road trips. airplanes and passports and new songs and old songs, but people more than anything else, you will need other people and you will need to be that other person to someone else, a living breathing screaming invitation to believe better things.
+
+<br/>
+
+cloud atlas
+
+> & only as you gasp your dying breath shall you understand, your life amounted to no more than one drop in a limitless ocean.
+
+> yet what is any ocean but a multitude of drops?
+
