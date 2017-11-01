@@ -12,3 +12,6 @@
 
 #### relationships
 - stories told thru n photos (maybe 6 each)
+
+#### abhyasa + adhikara
+- yoga / tantra / pranayama
