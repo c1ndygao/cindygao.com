@@ -6,9 +6,9 @@ kat
 
 mom
 
-mom is eating alone at the table in the breakfast nook, 
-some crackers 
-and her usual morning coffee. instant. 
+> mom is eating alone at the table in the breakfast nook, 
+> some crackers 
+> and her usual morning coffee. instant. 
 the kind you get from a big glass jar and mix w/ water and maybe some milk. 
 they are watching their cholesterol now so skim milk it is. 
 the coffee looks a lot darker and thinner than it used to. 
