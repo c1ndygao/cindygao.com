@@ -6,7 +6,18 @@ kat
 
 mom
 
-> mom is eating alone at the table in the breakfast nook, some crackers and her usual morning coffee. instant, the kind you get from a big glass jar and mix w/ water and maybe some milk. they are watching their cholesterol now so skim milk it is, so the coffee looks a lot darker and thinner than it used to. she dips the cracker in the coffee to soften it and sometimes forget how long it's been in there while she reads the paper. i see some big headlines ab some celebrity's award season outfits. this is saturday morning. and every morning.
+mom is eating alone at the table in the breakfast nook, 
+some crackers 
+and her usual morning coffee. instant. 
+the kind you get from a big glass jar and mix w/ water and maybe some milk. 
+they are watching their cholesterol now so skim milk it is. 
+the coffee looks a lot darker and thinner than it used to. 
+she dips the cracker in the coffee to soften it and sometimes forget 
+how long it's been in there while she reads the paper. 
+i see some big headlines ab some celebrity's award season outfits. 
+this is saturday morning. 
+and every morning.
+
 
 > her favorite snack is 绿豆糕 . anything sweet and cakey really. can't get enough of the stuff. just one more piece. 
 
