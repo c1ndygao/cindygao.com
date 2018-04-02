@@ -1,11 +1,4 @@
-kat
-
-> my parents came to visit me in LA for the first time since i moved a few months ago. it actually went really well. we ate, walked around, had a great time. then my mom called me yesterday and said that she felt my life was sad.
-
-<br/>
-
-mom
-
+**mornings** </br>
 ma is eating alone at the table in the breakfast nook, </br>
 some crackers </br>
 and her usual morning coffee. instant. </br>
@@ -19,6 +12,7 @@ this is saturday morning. </br>
 and every morning. </br>
 
 
+**like a lady** </br>
 i still get embarrassed by the way she eats. </br>
 grandma used to tell me that i ate like her, w/ my mouth closed, like a lady. </br>
 after working in the kitchens for such a long time </br>
@@ -29,10 +23,15 @@ because she always thinks she's running out of time. </br>
 or maybe because she doesn't want to say anything. </br>
 or maybe she feels she has nothing to say. </br>
 
-<br/>
 
-dad
+**are you?** </br>
+hey daughter, </br>
+i just wanted to call and explain. </br>
+your mom doesn't care about your hair being long or short. it's just that... </br>
+after meeting your friends... </br>
+she felt that... </br>
+maybe...</br>
+you were coming out. </br>
 
-> hey i just wanted to call and explain. your mom doesn't care about your hair being long or short. it's just that... after meeting your friends... she felt maybe that... you were coming out as lesbian.
 
 
