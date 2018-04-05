@@ -1,8 +1,10 @@
 ## some general musings and personal projects
 
-
 #### people you don't know but should
 - asian-american / immigrant heroes
+
+#### junctures
+- family stories of people at a crossroad
 
 #### we love you, but...
 - vignettes and quotes of asian parents
