@@ -1,3 +1,8 @@
+---
+layout: default
+title: people you should know but don't
+---
+
 #### Shortlist ####
 - Grace Lee Boggs, Activist
 - Tyrus Wong, Artist/Animator (Bambi)
