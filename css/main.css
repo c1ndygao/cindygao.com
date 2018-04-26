@@ -3,10 +3,9 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif', 'Roboto';
+    font-family:'Roboto';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -16,12 +15,9 @@ a {
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    text-decoration: underline;
-}
 h1 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif', 'Roboto';
+    font-family:'Roboto';
 }
 p {
     font-size: 1.5em;
