@@ -1,15 +1,15 @@
-**mornings** </br>
-ma is eating alone at the table in the breakfast nook, </br>
-some crackers </br>
-and her usual morning coffee. instant. </br>
-the kind you get from a big glass jar and mix w/ water and maybe some milk. </br>
-they are watching their cholesterol now so skim milk it is. </br>
-the coffee looks a lot darker and thinner than it used to. </br>
-she dips the cracker in the coffee to soften it and sometimes forget </br>
-how long it's been in there while she reads the paper. </br>
-i see some big headlines ab some celebrity's award season outfits. </br>
-this is saturday morning. </br>
-and every morning. </br>
+**mornings**
+ma is eating alone at the table in the breakfast nook,
+some crackers
+and her usual morning coffee. instant.
+the kind you get from a big glass jar and mix w/ water and maybe some milk.
+they are watching their cholesterol now so skim milk it is.
+the coffee looks a lot darker and thinner than it used to.
+she dips the cracker in the coffee to soften it and sometimes forget
+how long it's been in there while she reads the paper.
+i see some big headlines ab some celebrity's award season outfits.
+this is saturday morning.
+and every morning.
 
 
 **like a lady** </br>
