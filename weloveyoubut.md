@@ -1,5 +1,7 @@
-
-
+---
+layout: default
+title: we love you, but..
+---
 
 **mornings**  
 ma is eating alone at the table in the breakfast nook,
