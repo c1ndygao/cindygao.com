@@ -17,26 +17,26 @@ this is saturday morning.
 and every morning.
 
 
-**like a lady** </br>
-i still get embarrassed by the way she eats. </br>
-grandma used to tell me that i ate like her, w/ my mouth closed, like a lady. </br>
-after working in the kitchens for such a long time </br>
-where there was barely any time for breaks, </br>
-ma scarfs food down, but her mouth is still closed, </br>
-so her cheeks bulks up and she just keeps shoveling food in until she can't anymore. </br>
-because she always thinks she's running out of time. </br>
-or maybe because she doesn't want to say anything. </br>
-or maybe she feels she has nothing to say. </br>
+**like a lady**
+i still get embarrassed by the way she eats.
+grandma used to tell me that i ate like her, w/ my mouth closed, like a lady.
+after working in the kitchens for such a long time
+where there was barely any time for breaks,
+ma scarfs food down, but her mouth is still closed,
+so her cheeks bulks up and she just keeps shoveling food in until she can't anymore. 
+because she always thinks she's running out of time.
+or maybe because she doesn't want to say anything.
+or maybe she feels she has nothing to say.
 
 
-**are you?** </br>
-hey daughter, </br>
-i just wanted to call and explain. </br>
-your mom doesn't care about your hair being long or short. it's just that... </br>
-after meeting your friends... </br>
-she felt that... </br>
-maybe...</br>
-you were coming out. </br>
+**are you?**
+hey daughter,
+i just wanted to call and explain.
+your mom doesn't care about your hair being long or short. it's just that... 
+after meeting your friends... 
+she felt that... 
+maybe...
+you were coming out.
 
 
 
