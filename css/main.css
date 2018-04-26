@@ -17,11 +17,12 @@ a {
     color: grey;
 }
 h1 {
-    margin: 20px;
+    padding: 20px;
     font-size: 2em;
     font-family:'Roboto';
 }
 p {
+    padding: 20px;
     font-size: 1em;
     line-height: 1em;
     color: grey;
