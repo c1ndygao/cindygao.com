@@ -5,7 +5,6 @@ body {
 }
 nav ul, footer ul {
     font-family:'Roboto';
-    padding: 20px;
     list-style: none;
 }
 nav ul li, footer ul li {
