@@ -3,7 +3,7 @@ layout: default
 title: we love you, but..
 ---
 
-####mornings#### 
+#### mornings ####  
 ma is eating alone at the table in the breakfast nook,  
 some crackers  
 and her usual morning coffee. instant.  
@@ -17,7 +17,7 @@ this is saturday morning.
 and every morning.  
 
 
-####like a lady####  
+#### like a lady ####  
 i still get embarrassed by the way she eats.  
 grandma used to tell me that i ate like her, w/ my mouth closed, like a lady.  
 after working in the kitchens for such a long time  
@@ -29,7 +29,7 @@ or maybe because she doesn't want to say anything.
 or maybe she feels she has nothing to say.  
 
 
-####are you?####  
+#### are you? ####  
 hey daughter,  
 i just wanted to call and explain.  
 your mom doesn't care about your hair being long or short. it's just that...   
