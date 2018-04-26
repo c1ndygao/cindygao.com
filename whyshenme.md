@@ -13,9 +13,9 @@ title: whyshenme
 7. horse: 马不停蹄
 8. goat: 羊毛出在羊身上
 9. monkey: 猴年马月
-10: rooster: 鸡飞蛋打
-11: dog: 狗口里吐不出象牙
-12: pig: 猪朋狗友 / 人怕出名猪怕壮
+10. rooster: 鸡飞蛋打
+11. dog: 狗口里吐不出象牙
+12. pig: 猪朋狗友 / 人怕出名猪怕壮
 
 
 others
