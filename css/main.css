@@ -1,11 +1,12 @@
 body {
-   <!-- margin: 100px auto;-->
-    padding: 20px;
+    margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
     font-family:'Roboto';
+    padding: 0px;
     list-style: none;
+    font-weight: 550;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -16,12 +17,10 @@ a {
     color: grey;
 }
 h1 {
-    padding: 20px;
     font-size: 2em;
     font-family:'Roboto';
 }
 p {
-    padding: 20px;
     font-size: 1em;
     line-height: 1em;
     color: grey;
