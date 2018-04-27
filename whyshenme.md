@@ -5,7 +5,7 @@ title: whyshenme
 
 
 | Animal |属相  |Idiom 成语                | Pinyin 拼音                | Meaning 释义 |
-| -------|-----|:-------------------------| ---------------------------|--------------|
+| -------|-----|:-------------------------|:---------------------------|--------------|
 | mouse  |鼠 🐭| 掘室求**鼠**              | jué shì qiú shǔ            |xxxxxxxxxxxxxx|
 | ox     |牛 🐮| 对**牛**弹琴              | duì niú tán qín            |xxxxxxxxxxxxxx|
 | tiger  |虎 🐯| 不入**虎**穴，焉得**虎**子 | bú rù hǔ xué，yān dé hǔ zǐ |xxxxxxxxxxxxxx|
