@@ -3,11 +3,15 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Roboto';
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+font-family: source-han-sans-simplified-c, sans-serif;
+font-style: normal;
+font-weight: 100;
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -17,7 +21,7 @@ a {
 }
 h1 {
     font-size: 2em;
-    font-family:'Roboto';
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
 }
 p {
     font-size: 1em;
