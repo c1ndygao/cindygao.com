@@ -32,7 +32,19 @@ a:active {
 
 h1 {
     font-size: 3em;
-    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
+}
+h2 {
+    font-size: 2em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
+}
+h3 {
+    font-size: 1.5em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
+}
+h4 {
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
 }
 p {
     font-size: 2em;
@@ -48,9 +60,10 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
 }
