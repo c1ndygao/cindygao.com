@@ -8,9 +8,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-font-family: source-han-sans-simplified-c, sans-serif;
-font-style: normal;
-font-weight: 100;
 
 nav ul li, footer ul li {
     display: inline;
