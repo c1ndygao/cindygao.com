@@ -38,11 +38,11 @@ a:active {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
 }
 p {
-    font-size: 1em;
+    font-size: 2em;
     line-height: 1em;
     color: grey;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
@@ -55,7 +55,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1em;
+    font-size: 2em;
 }
 
 ul.posts li {
