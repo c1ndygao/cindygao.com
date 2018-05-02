@@ -8,10 +8,17 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+ul {
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
+    padding: 0px;
+    list-style: disc;
+}
+ul li {
+    display: inline;
 }
 a {
     text-decoration: none;
@@ -59,14 +66,4 @@ th, td {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1em;
-    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
-
-}
-ul.posts li {
-    list-style: bullet;
 }
