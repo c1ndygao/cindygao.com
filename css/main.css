@@ -45,6 +45,8 @@ p {
     font-size: 1em;
     line-height: 1em;
     color: grey;
+    font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
+
 }
 footer {
     border-top: 1px solid #d5d5d5;
