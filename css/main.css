@@ -13,9 +13,30 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+
+a:link {
+    color: red; 
+    background-color: transparent; 
     text-decoration: none;
 }
+
+a:visited {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
 h1 {
     font-size: 2em;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
