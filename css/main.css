@@ -43,11 +43,11 @@ h3 {
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
 }
 h4 {
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
 }
 p {
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1em;
     color: grey;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
@@ -63,10 +63,10 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.2em;
-}
-
-ul.posts li {
-    list-style: none;
+    font-size: 1em;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
+
+}
+ul.posts li {
+    list-style: bullet;
 }
