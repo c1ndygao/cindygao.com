@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 ul {
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
     padding: 0px;
-    list-style: disc;
+    list-style: decimal;
 }
 ul li {
     display: inline;
