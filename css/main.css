@@ -47,7 +47,7 @@ h4 {
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;        
 }
 p {
-    font-size: 2em;
+    font-size: 1.2em;
     line-height: 1em;
     color: grey;
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
@@ -60,7 +60,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
