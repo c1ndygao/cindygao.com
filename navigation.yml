@@ -1,0 +1,24 @@
+- title: About
+  url: /about.html
+- title: we love you but
+  url: /weloveyoubut.html
+  sublinks:
+    - title: mornings
+      url: /mornings.html
+    - title: separator
+    - title: like a lady
+      url: /likealady.html
+    - title: are you?
+      url: /areyou.html
+- title: road not taken
+  url: /roadnottaken.html
+  sublinks:
+    - title: komatsu
+      url: /komatsu.html
+    - title: separator
+    - title: china or chicago
+      url: /chinaorchicago.html
+- title: heroes
+  url: /heroes.html
+- title: whyshenme
+  url: /whyshenme.html
