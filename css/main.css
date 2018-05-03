@@ -2,6 +2,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+nav {
+    border-bottom: 1px solid #d5d5d5;
+}
 nav ul, footer ul {
     font-family: "Trebuchet MS", Helvetica, sans-serif, source-han-sans-simplified-c, sans-serif;
     padding: 0px;
@@ -67,5 +70,5 @@ th, td {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1em;
 }
