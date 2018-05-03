@@ -1,6 +1,6 @@
 ---
 layout: default
-title: we love you, but..
+title: we love you, but
 ---
 
 #### mornings ####
