@@ -31,14 +31,14 @@ or maybe she feels she has nothing to say.
 
 
 #### always in chorus ####
-ma is sewing and putting the finishing touches 
-on a dress i was wearing for that year's musical.
-was it "hello, dolly!"? 
-who can remember something from half a lifetime ago.
-she calls me over to try it on. 
-"why you do the musicals?"
-"because they are fun and my friends are all in it."
-"but you not good at it. always in chorus."
+ma is sewing and putting the finishing touches  
+on a dress i was wearing for that year's musical. 
+was it "hello, dolly!"?  
+who can remember something from half a lifetime ago.  
+she calls me over to try it on.   
+"why you do the musicals?"  
+"because they are fun and my friends are all in it."  
+"but you not good at it. always in chorus."  
 
 
 #### are you? ####
