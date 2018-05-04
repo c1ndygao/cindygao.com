@@ -3,6 +3,7 @@ layout: default
 title: we love you, but
 ---
 
+
 #### mornings ####
 ma is eating alone at the table in the breakfast nook,  
 some crackers  
@@ -27,6 +28,17 @@ so her cheeks bulks up and she just keeps shoveling food in until she can't anym
 because she always thinks she's running out of time.  
 or maybe because she doesn't want to say anything.  
 or maybe she feels she has nothing to say.  
+
+
+#### always in chorus ####
+ma is sewing and putting the finishing touches 
+on a dress i was wearing for that year's musical.
+was it "hello, dolly!"? 
+who can remember something from half a lifetime ago.
+she calls me over to try it on. 
+"why you do the musicals?"
+"because they are fun and my friends are all in it."
+"but you not good at it. always in chorus."
 
 
 #### are you? ####
