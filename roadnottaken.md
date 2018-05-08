@@ -19,15 +19,11 @@ my grandpa, born in 1920, was 10 years older than my grandma. when they married,
 
 "yea they wanted to get married, but the party secretary wouldn't approve of it because she was japanese."
 
-**MIND. BLOWN.**
-
 without me asking, grandma continued...
 
 "she was a music teacher in our troupe during the revolution. xiaosong 小松 was her name (i was curious and looked up the japanese original: komatus). our unit was responsible for boosting morale, putting on plays, musicals and choral numbers. your grandpa was the head of that unit (he was completely self taught, not only directing but composing and conducting composing original works... a total badass.)
 
 "she wasn't very tall or great looking compared to some of the other girls, but she was a genuine person and they were serious. after they were told no, they separated, and it was actually komatsu who told me to pursue things with your grandpa. she told me that he was a great and kind man."
-
-wow.
 
 "grandma, did you worry about any leftover feelings they might've had?"
 
@@ -37,4 +33,18 @@ wow.
 
 when he was sick in the end, i said to him, if you ended up with komatsu, would she have taken care of you like this?"
 
-"and he said: 'i don't think so.'."
+"and he said: 'i don't think so'."
+
+as we walked around the park, i kept thinking about komatsu. why was she in china? when did she go? did she arrive during the second sino-japanese war? why did she join the fight against KMT on the communist side? and where did she go?
+
+at the end of my trip on my way to the airport, i sat in the car, still thinking about this story. i sheepishly asked two of my uncles if they knew about this story, not wanting to be the one to break the story and the silence. 
+
+"oh yea, what was her name again? xiaosong (komatsu), that's right. they saw her later on as well, before she went back to japan. i'm not sure how true this is, but apparently she was raped by one of the higher ups. maybe that's why she left."
+
+for a family that's not big on feelings, this was a lot of sharing. 
+
+as i grew more curious, i started thinking about others like her. who were these women? 
+
+a cursory google search only surfaced two relevant articles--one was about a recent commemoration of japanese soldiers (some POWs) who stayed in china after the second sino-japanese war and fought against the KMT, and the other, about japanese women who returned to japan and the only question asked of them by their countrymen: whether they were raped by the chinese.
+
+
