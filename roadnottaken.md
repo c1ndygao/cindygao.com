@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: roadnottaken
 title: road not taken
 ---
 
