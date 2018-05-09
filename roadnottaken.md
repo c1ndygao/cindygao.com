@@ -1,5 +1,5 @@
 ---
-layout: roadnottaken
+layout: page
 title: road not taken
 ---
 
