@@ -13,7 +13,7 @@ they are watching their cholesterol now so skim milk it is.
 the coffee looks a lot darker and thinner than it used to.  
 she dips the cracker in the coffee to soften it and sometimes  
 forget how long it's been in there while she reads the paper.  
-i see some big headlines 
+i see some big headlines  
 ab some celebrity's award season outfits.  
 this is saturday morning.  
 and every morning.  
