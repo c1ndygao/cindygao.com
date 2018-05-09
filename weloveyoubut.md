@@ -20,12 +20,12 @@ and every morning.
 
 #### like a lady ####
 i still get embarrassed by the way she eats.  
-grandma used to tell me that i ate like her, 
+grandma used to tell me that i ate like her,  
 w/ my mouth closed, like a lady.  
 after working in the kitchens for such a long time  
 where there was barely any time for breaks,  
 ma scarfs food down, but her mouth is still closed,  
-so her cheeks bulks up and she 
+so her cheeks bulks up and she  
 just keeps shoveling food in until she can't anymore.   
 because she always thinks she's running out of time.  
 or maybe because she doesn't want to say anything.  
@@ -46,7 +46,7 @@ she calls me over to try it on.
 #### are you? ####
 hey daughter,  
 i just wanted to call and explain.  
-your mom doesn't care 
+your mom doesn't care  
 about your hair being long or short. it's just that...   
 after meeting your friends...   
 she felt that...   
