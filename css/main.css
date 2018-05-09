@@ -27,6 +27,7 @@ ol {
 }
 ol li {
     display: inline;
+    list-style: decimal;
 }
 a {
     text-decoration: none;
