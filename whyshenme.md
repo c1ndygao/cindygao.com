@@ -4,6 +4,20 @@ title: whyshenme
 ---
 
 
+### idioms with the 12 animals of the zodiac ###
+
+鼠 mouse 🐭    
+掘室求鼠  jué shì qiú shǔ  
+translation: destroys the house to catch the mouse  
+meaning: penny wise and pound foolish  
+
+牛 ox 🐮  
+对牛弹琴  duì niú tán qín   
+playing music to a cow  
+ridiculing the speaker for not knowing the audience OR ridicule the listener for not knowing what's talked ab  
+
+
+
 | Animal |属相  |Idiom 成语                | Pinyin 拼音                             | Translation 翻译                   | Meaning 释义 |
 | -------|-----|:-------------------------|:----------------------------------------|------------------------------------|--------------|
 | mouse  |鼠 🐭| 掘室求**鼠**              | jué shì qiú shǔ                        |destroys the house to catch the mouse| penny wise and pound foolish |
