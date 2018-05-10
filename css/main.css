@@ -1,7 +1,6 @@
 body {
     margin: auto;
     max-width: 800px;
-    line-height: 50px;
 }
 
 nav ul, footer ul {
@@ -65,7 +64,7 @@ h4 {
 }
 p {
     font-size: 1em;
-    line-height: 1em;
+    line-height: 1.5em;
     color: #444444;
     font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     font-weight: normal;
