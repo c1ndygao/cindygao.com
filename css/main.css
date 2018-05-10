@@ -68,6 +68,8 @@ p {
     color: #444444;
     font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     font-weight: normal;
+    max-width: 600px;
+    align-content: center;
 }
 th, td {
     padding: 15px;
