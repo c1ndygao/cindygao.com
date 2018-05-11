@@ -38,33 +38,33 @@ title: whyshenme
 
 ### 马 horse 🐴 ###
 ### 马不停蹄 ma3 bu4 ting2 ti2 ###
-**translation:** unstopping horse 
-**meaning:** always going forward, busy, nonstop
+**translation:** unstopping horse  
+**meaning:** always going forward, busy, nonstop  
 
 ### 羊 goat 🐑 ###
 ### 羊毛出在羊身上  yang2 mao2 chu1 zai4 yang2 shen1 shang4 ###
-**translation:** sheepskin comes from the sheep
-**meaning:** seemingly gaining something but had to pay a cost
+**translation:** sheepskin comes from the sheep  
+**meaning:** seemingly gaining something but had to pay a cost  
 
 ### 猴 monkey 🐒 ###
 ### 猴年马月  hou2 nian2 ma3 yue4 ###
-**translation:** year of the monkey month of the horse
-**meaning:** unreachable date in the future
+**translation:** year of the monkey month of the horse  
+**meaning:** unreachable date in the future  
 
 ### 鸡 rooster 🐔 ###
 ### **鸡**飞蛋打  ji1 fei1 dan4 da3 ###
-**translation:** chickens flyies away and eggs are broken
-**meaning:** loss on every side, left with nothing 
+**translation:** chickens flyies away and eggs are broken  
+**meaning:** loss on every side, left with nothing  
 
 ### 狗 dog 🐶 ###
 ### 狗口里吐不出象牙  gou3 kou3 li3 tu4 bu4 chu1 xiang4 ya2 ###
-**translation:** can't spit out an elephant tooth from a dog's mouth
-**meaning:** bad person's inability to say anything good
+**translation:** can't spit out an elephant tooth from a dog's mouth  
+**meaning:** bad person's inability to say anything good  
 
 ### 猪 pig 🐷 ###
 ### 猪朋狗友  zhu1 peng2 gou3 you3 ###      
-**translation:** pig and dog friends
-**meaning:** bad friends who are lazy and up to no good
+**translation:** pig and dog friends  
+**meaning:** bad friends who are lazy and up to no good  
 
 
 ### others ###
