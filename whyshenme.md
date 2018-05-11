@@ -4,7 +4,7 @@ title: whyshenme
 ---
 
 
-## idioms with the 12 animals of the zodiac ##
+## 十二生肖成语 | idioms of the 12 animals of the zodiac ##
 
 ### 鼠 mouse 🐭 | 掘室求鼠  jué shì qiú shǔ ### 
 **translation:** destroys the house to catch the mouse  
