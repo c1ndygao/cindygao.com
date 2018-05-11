@@ -6,13 +6,12 @@ title: whyshenme
 
 ## idioms with the 12 animals of the zodiac ##
 
-### 鼠 mouse 🐭 ###   
-### 掘室求鼠  jué shì qiú shǔ ### 
+### 鼠 mouse 🐭 | 掘室求鼠  jué shì qiú shǔ ### 
 **translation:** destroys the house to catch the mouse  
 **meaning:** penny wise and pound foolish  
 
 ### 牛 ox 🐮 ### 
-### 对牛弹琴  duì niú tán qín ###   
+### 对牛弹琴  duì niú tán qín ###
 **translation:** playing music to a cow   
 **meaning:** ridiculing the speaker for not knowing the audience OR ridicule the listener for not knowing what's talked ab  
 
@@ -62,13 +61,13 @@ title: whyshenme
 **meaning:** bad person's inability to say anything good  
 
 ### 猪 pig 🐷 ###
-### 猪朋狗友  zhu1 peng2 gou3 you3 ###      
+### 猪朋狗友  zhu1 peng2 gou3 you3 ###   
 **translation:** pig and dog friends  
 **meaning:** bad friends who are lazy and up to no good  
 
 
 ### others ###
-* 郑人买鞋
+郑人买鞋
 * 丰衣足食
 * 藏龙卧**虎**
 * 人怕出名猪怕壮
