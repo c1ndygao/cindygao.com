@@ -4,27 +4,39 @@ title: whyshenme
 ---
 
 
-### idioms with the 12 animals of the zodiac ###
+## idioms with the 12 animals of the zodiac ##
 
-鼠 mouse 🐭    
+### 鼠 mouse 🐭 ###   
 掘室求鼠  jué shì qiú shǔ  
 translation: destroys the house to catch the mouse  
 meaning: penny wise and pound foolish  
 
-牛 ox 🐮  
+### 牛 ox 🐮 ### 
 对牛弹琴  duì niú tán qín   
 playing music to a cow  
 ridiculing the speaker for not knowing the audience OR ridicule the listener for not knowing what's talked ab  
 
+### 虎 tiger 🐯 ###
+不入虎穴，焉得虎子 bú rù hǔ xué，yān dé hǔ zǐ  
+how do you get the tiger cub w/o entering the tiger lair  
+have to take risks to get the reward  
+
+### 兔 rabbit 🐰 ###
+守株待兔  shou3 zhu1 dai4 tu4  
+waiting for the rabbit where it lives/caught last  
+getting something w/o effort OR reliant on past experiences and inflexible ab trying something new  
+
+### 龙 dragon 🐲 ###
+来龙去脉  lai2 long2 qu4 mai4 
+tracing the amountain range from start to finish  
+cause and effect of an event  
+
+### 蛇 snake 🐍 ###
+画**蛇**添足  hua4 she2 tian1 zu2  
+adding feet to a drawing of a snake  
+doing something unnecessary  
 
 
-| Animal |属相  |Idiom 成语                | Pinyin 拼音                             | Translation 翻译                   | Meaning 释义 |
-| -------|-----|:-------------------------|:----------------------------------------|------------------------------------|--------------|
-| mouse  |鼠 🐭| 掘室求**鼠**              | jué shì qiú shǔ                        |destroys the house to catch the mouse| penny wise and pound foolish |
-| ox     |牛 🐮| 对**牛**弹琴              | duì niú tán qín                        |playing music to a cow|ridicule the speaker for not knowing the audience OR ridicule the listener for not knowing what's talked ab |
-| tiger  |虎 🐯| 不入**虎**穴，焉得**虎**子 | bú rù hǔ xué，yān dé hǔ zǐ             |how do you get the tiger cub w/o entering the tiger lair| have to take risks to get the reward |
-| rabbit |兔 🐰| 守株待**兔**              | shou3 zhu1 dai4 tu4                    |waiting for the rabbit where it lives/caught last|getting something w/o effort OR reliant on past experiences and inflexible ab trying something new|
-| dragon |龙 🐲| 来**龙**去脉              | lai2 long2 qu4 mai4                    |tracing the amountain range from start to finish|cause and effect of an event |
 | snake  |蛇 🐍| 画**蛇**添足              | hua4 she2 tian1 zu2                    |adding feet to a drawing of a snake|doing something unnecessary|
 | horse  |马 🐴| **马**不停蹄              | ma3 bu4 ting2 ti2                      |unstopping horse |always going forward, busy, nonstop|
 | goat   |羊 🐑| **羊**毛出在**羊**身上     |yang2 mao2 chu1 zai4 yang2 shen1 shang4 |sheepskin comes from the sheep|seemingly gaining something but had to pay a cost|
