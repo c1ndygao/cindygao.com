@@ -6,8 +6,11 @@ title: pen on paper
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li><br />
+	    <li><a href="{{ post.url }}" title="{{ post.title }}"><b>{{ post.title }}</b></a><br/>
+		<span>{{ post.date | date_to_string }}</span> » </li><br/>
 		{{ post.content }}
+		<div style="border-top: 1px solid #d5d5d5;">
+		</div.
     	    </li>
 	  {% endfor %}
 	
