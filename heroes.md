@@ -5,13 +5,13 @@ title: people you should know but don't
 
 ### Chinese Immigrants ###
 
-#### Tyrus Wong 黄齐耀, artist/animator ####
+#### > Tyrus Wong 黄齐耀, artist/animator ####
 Tyrus Wong created the look of the film _Bambi_.
 
-#### Zhenning (Chen-ning) "Frank" Yang 杨振宁 + T.D. (Tsung-Dao, Zhengdao) Lee 李政道, theoretical physicists ####
+#### > Zhenning (Chen-ning) "Frank" Yang 杨振宁 + T.D. (Tsung-Dao, Zhengdao) Lee 李政道, theoretical physicists ####
 Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.
 
-#### Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
+#### > Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
 Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (above) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research.
 
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
