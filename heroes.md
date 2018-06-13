@@ -5,8 +5,6 @@ title: people you should know but don't
 
 ## Chinese Immigrants ##
 
-<br>
-
 <img src="/images/tyrus-recent.png" height="200">   <img src="/images/tyrus-bambi.jpg" height="200">
 
 #### Tyrus Wong 黄齐耀, artist/animator ####
@@ -29,10 +27,14 @@ Wu worked on the Manhattan Project, developing the process for separating uraniu
 Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.
 
 <br>
+<br>
+
+<img src="/images/yitang-zhang.jpg" height="200">
 
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
 Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
+<br>
 
 ******
 
