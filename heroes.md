@@ -11,7 +11,7 @@ title: people you should know but don't
 Tyrus Wong created the look of the film _Bambi_.
 
 
-<img src="/images/cs-wu.png" height="200">
+<img src="/images/cs-wu.jpeg" height="200">
 
 #### > Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
 Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research.
