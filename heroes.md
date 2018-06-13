@@ -8,6 +8,10 @@ title: people you should know but don't
 #### > Tyrus Wong 黄齐耀, artist/animator ####
 Tyrus Wong created the look of the film _Bambi_.
 
+![Tyrus](https://github.com/c1ndygao/cindygao.com/blob/master/images/tyrus-recent.png)
+![Bambi](https://github.com/c1ndygao/cindygao.com/blob/master/images/tyrus-bambi.jpg)
+
+
 #### > Zhenning (Chen-ning) "Frank" Yang 杨振宁 + T.D. (Tsung-Dao, Zhengdao) Lee 李政道, theoretical physicists ####
 Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.
 
@@ -18,6 +22,7 @@ Wu worked on the Manhattan Project, developing the process for separating uraniu
 Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
 --------
+********
 
 ### Chinese Americans ###
 
