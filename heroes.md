@@ -8,8 +8,7 @@ title: people you should know but don't
 #### > Tyrus Wong 黄齐耀, artist/animator ####
 Tyrus Wong created the look of the film _Bambi_.
 
-![Tyrus](https://github.com/c1ndygao/cindygao.com/blob/master/images/tyrus-recent.png)
-![Bambi](https://github.com/c1ndygao/cindygao.com/blob/master/images/tyrus-bambi.jpg)
+<img src="https://github.com/c1ndygao/cindygao.com/blob/master/images/tyrus-recent.png" height="250"> <img src="https://github.com/c1ndygao/cindygao.com/blob/master/images/tyrus-bambi.jpg" height="250">
 
 
 #### > Zhenning (Chen-ning) "Frank" Yang 杨振宁 + T.D. (Tsung-Dao, Zhengdao) Lee 李政道, theoretical physicists ####
