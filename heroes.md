@@ -92,6 +92,13 @@ Wong was the first Chinese American Hollywood star.
 #### Hiram Fong 邝友良, politician ####
 Fong was the a Republican senator from Hawaii from 1959 to 1977, making him the first Asian American and Chinese American to be elected to the US Senate. To this day, he is still the only Republican to have ever held a Senate seat from Hawaii. He made more history in 1964, by becoming the first Asian American to run for the Republican party's nomination for President, and held that record until 2016.
 
+<br>
 
+<img src="/images/michael-chang.jpeg" height="270" align="right"> 
 
+#### Michael Chang, athlete ####
+Chang, at 17 years and 110 days, became the youngest male athlete to have ever won a Grand Slam at the 1989 French Open. He was the youngest athlete to have won a Grand Slam until Maria Sharapova won Wimbledon in 2004 at the age of 17 years 75 days.
 
+<br>
+<br>
+<br>
