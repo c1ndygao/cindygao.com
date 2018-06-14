@@ -21,14 +21,10 @@ Wu worked on the Manhattan Project, developing the process for separating uraniu
 
 <br>
 <br>
-<br>
-<br>
 
 <img src="/images/lee-yang.jpg" height="270" align="left">
 
-#### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 ####
-#### Zhenning (Chen-ning) "Frank" Yang 杨振宁 #### 
-#### theoretical physicists ####
+#### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists ####
 
 Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.
 
