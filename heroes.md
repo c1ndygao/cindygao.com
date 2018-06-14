@@ -7,7 +7,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 ### Chinese Immigrants ###
 
-<img src="/images/tyrus-recent.png" height="250">   <img src="/images/tyrus-bambi.jpg" height="250">
+<img src="/images/tyrus-recent.png" height="225">   <img src="/images/tyrus-bambi.jpg" height="225">
 
 #### Tyrus Wong 黄齐耀, artist/animator ####
 Tyrus Wong created the look of the film _Bambi_.
@@ -24,10 +24,11 @@ Wu worked on the Manhattan Project, developing the process for separating uraniu
 <br>
 <br>
 
-<img src="/images/lee-yang.jpg" height="270" align="left" padding-right="20">
+<img src="/images/lee-yang.jpg" height="270" align="left">
 
-#### T.D. (Tsung-Dao, Zhengdao) Lee 李政道, theoretical physicist ####
-#### Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicist ####
+#### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 ####
+#### Zhenning (Chen-ning) "Frank" Yang 杨振宁 #### 
+#### theoretical physicists ####
 
 Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.
 
@@ -73,8 +74,6 @@ Grace Lee Boggs dedicated her life to the struggles in the African-American comm
 #### Anna May Wong 黄柳霜, actor ####
 Anna May Wong was the first Chinese American Hollywood star.
 
-<br>
-<br>
 <br>
 <br>
 <br>
