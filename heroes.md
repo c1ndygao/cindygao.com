@@ -43,8 +43,6 @@ Yitang Zhang, working completely on his own, established the first finite bound 
 
 <br>
 <br>
-<br>
-<br>
 
 ************************
 
