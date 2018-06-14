@@ -12,12 +12,16 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 #### Tyrus Wong 黄齐耀, artist/animator ####
 Tyrus Wong created the look of the film _Bambi_.
 
+[obstacle: never received recognition for his work]
+
 <br>
 
 <img src="/images/cs-wu.jpeg" height="270" align="right">
 
 #### Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
-Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research.
+Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
+
+[obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). 
 
 <br>
 
@@ -35,6 +39,8 @@ Yang and Lee received the 1957 Nobel Prize in Physics for their work on the viol
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
 Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
+[obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics]
+
 <br>
 <br>
 <br>
@@ -48,6 +54,8 @@ Yitang Zhang, working completely on his own, established the first finite bound 
 
 #### Wah Chang 郑华明, artist/designer #### 
 Few Star Trek fans know him by name, but they all know Wah Chang's creations: the phaser, the communicator, the tricorder, the Gorn, the first Romulan ship, the tribble, and so many more. It's hard to imagine that his name never appeared in the series's credits.
+
+[obstacle: discrimination, lack of recognition]
 
 <br>
 
@@ -69,6 +77,7 @@ Grace Lee Boggs dedicated her life to the struggles in the African-American comm
 #### Anna May Wong 黄柳霜, actor ####
 Anna May Wong was the first Chinese American Hollywood star.
 
+[obstacle: discrimination; typecast as oriental vixen; lost role in the good earth to white actress]
 <br>
 <br>
 <br>
