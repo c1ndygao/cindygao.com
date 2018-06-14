@@ -20,7 +20,6 @@ Tyrus Wong created the look of the film _Bambi_.
 Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research.
 
 <br>
-<br>
 
 <img src="/images/lee-yang.jpg" height="270" align="left">
 
@@ -45,7 +44,7 @@ Yitang Zhang, working completely on his own, established the first finite bound 
 
 ### Chinese Americans ###
 
-<img src="/images/Wah_Chang.jpg" height="250"> <img src="/images/tricorder.jpg" height="250"> <img src="/images/tribbles.jpg" height="250"> 
+<img src="/images/Wah_Chang.jpg" height="225"> <img src="/images/tricorder.jpg" height="225"> <img src="/images/tribbles.jpg" height="225"> 
 
 #### Wah Chang 郑华明, artist/designer #### 
 Few Star Trek fans know him by name, but they all know Wah Chang's creations: the phaser, the communicator, the tricorder, the Gorn, the first Romulan ship, the tribble, and so many more. It's hard to imagine that his name never appeared in the series's credits.
