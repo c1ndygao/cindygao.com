@@ -34,6 +34,12 @@ Yang and Lee received the 1957 Nobel Prize in Physics for their work on the viol
 <br>
 <br>
 
+
+#### I. M. Pei 贝夷铭 ####
+
+<br>
+<br>
+
 <img src="/images/yitang-zhang.jpg" height="270" align="right">
 
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
@@ -47,6 +53,10 @@ Yitang Zhang, working completely on his own, established the first finite bound 
 ************************
 
 ### Chinese Americans ###
+
+
+#### Bruce Lee 李小龙, martial artist/actor ####
+
 
 <img src="/images/Wah_Chang.jpg" height="225"> <img src="/images/tricorder.jpg" height="225"> <img src="/images/tribbles.jpg" height="225"> 
 
@@ -96,6 +106,12 @@ Fong was the a Republican senator from Hawaii from 1959 to 1977, making him the 
 
 #### Michael Chang, athlete ####
 Chang, at 17 years and 110 days, became the youngest male athlete to have ever won a Grand Slam at the 1989 French Open. He was the youngest athlete to have won a Grand Slam until Maria Sharapova won Wimbledon in 2004 at the age of 17 years 75 days.
+
+<br>
+<br>
+<br>
+
+#### Vera Wang, designer ####
 
 <br>
 <br>
