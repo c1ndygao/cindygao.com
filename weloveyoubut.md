@@ -3,6 +3,10 @@ layout: page
 title: we love you, but
 ---
 
+### we love you but ###
+poetry about mothers, daughters and the sometimes unbridgeable space in between
+
+
 #### mornings ####
 ma is eating alone at the table in the breakfast nook,  
 some crackers  
