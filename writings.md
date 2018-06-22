@@ -3,10 +3,10 @@ layout: page
 title: writings
 ---
 
-### we love you, but... ###
+[### we love you, but... ###](../weloveyoubut.md)
 [description]
 
-### road not taken ###
+[### road not taken ###](../roadnottaken.md)
 [description]
 
 
