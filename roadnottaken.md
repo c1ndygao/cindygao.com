@@ -3,6 +3,10 @@ layout: page
 title: road not taken
 ---
 
+### road not taken ###
+stories about people at a crossroad and the path chosen for them
+
+
 #### komatsu ####
 
 during my annual visit home to see my extended family, i take a daily walk with my grandma in a nearby park. she's almost 88, a year older than my grandpa when he passed away in 2007. she hasn't been able to hear much after grandpa passed away, some say it was caused by grief. other than that, she's in great health and doesn't have much to worry ab other than a hardened callus on her foot.
