@@ -1,2 +1,11 @@
 name: there will be bread
 markdown: kramdown
+
+
+# Setup
+title:               there will be bread
+description:         a cure for creative constipation
+url:                 http://www.cindygao.com
+paginate:            5
+paginate_path:       "/blog/page:num/"
+gems:		     [jekyll-paginate, jekyll-gist]
