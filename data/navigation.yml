@@ -1,0 +1,17 @@
+- title: home
+  url: /home.html
+- title: but why
+  url: /about.html
+- title: writings
+  url: /writings.html
+  sublinks:
+    - title: pen on paper
+      url: /blog.html
+    - title: we love you but
+      url: /weloveyoubut.html
+    - title: road not taken
+      url: /roadnottaken.html
+- title: heroes
+  url: /heroes.html
+- title: whyshenme
+  url: /whyshenme.html
