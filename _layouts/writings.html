@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<strong>writings</strong>
+
+<nav>
+  <ul>
+    {% for writing projects in site.categories.writings %}
+      <li>
+        <a href="{{site.baseurl}}/{{writings.folder}}/" class={% if page.url contains writings.folder %}current{% endif %}">{{writings.title}}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+{{content}}
