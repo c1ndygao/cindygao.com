@@ -33,14 +33,25 @@ Yang and Lee received the 1957 Nobel Prize in Physics for their work on the viol
 
 <br>
 <br>
+<br>
 
+<img src="/images/pei-louvre.jpg" height="270" align="right">
 
 #### I. M. Pei 贝夷铭 ####
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img src="/images/yitang-zhang.jpg" height="270" align="right">
+<img src="/images/yitang-zhang.jpg" height="270" align="left">
 
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
 Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
@@ -54,9 +65,22 @@ Yitang Zhang, working completely on his own, established the first finite bound 
 
 ### Chinese Americans ###
 
+<img src="/images/bruce-lee-square.jpeg" height="270" align="right">
 
 #### Bruce Lee 李小龙, martial artist/actor ####
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="/images/Wah_Chang.jpg" height="225"> <img src="/images/tricorder.jpg" height="225"> <img src="/images/tribbles.jpg" height="225"> 
 
@@ -110,6 +134,11 @@ Chang, at 17 years and 110 days, became the youngest male athlete to have ever w
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+<img src="/images/michael-chang.jpeg" height="270" align="right"> 
 
 #### Vera Wang, designer ####
 
