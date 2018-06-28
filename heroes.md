@@ -133,16 +133,14 @@ Chang, at 17 years and 110 days, became the youngest male athlete to have ever w
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <img src="/images/vera-wang.jpg" height="270" align="left"> 
 
 #### Vera Wang, designer ####
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
