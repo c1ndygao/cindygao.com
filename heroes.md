@@ -16,10 +16,10 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <br>
 
-<img src="/images/cs-wu.jpeg" height="270px" align="right" padding="0 00 50 50">
+<img src="/images/cs-wu.jpeg" height="270px" align="right">
 
 <h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
-<p style="width:350px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
+<p style="width:380px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
 
 [obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). </p>
 
@@ -29,7 +29,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <h4 style="text-align:right">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
-<p style="width:350px">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
+<p style="text-align:right; width:380px;">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
 
 <br>
 <br>
