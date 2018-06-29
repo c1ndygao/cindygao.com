@@ -48,7 +48,7 @@ Tyrus Wong created the look of the film _Bambi_.
 <img src="/images/yitang-zhang.jpg" height="270" align="left">
 
 <h4 style="align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
-<p style="text-align:justify; padding: 0px 0px 0px 20px">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
+<p style="text-align:justify; padding: 0px 0px 0px 20px;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
 [obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics] </p>
 
