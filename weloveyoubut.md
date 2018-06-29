@@ -3,6 +3,8 @@ layout: page
 title: we love you, but
 ---
 
+<h4><a href="/writings">< back to writings</a></h4>
+
 ### we love you but ###
 poetry about mothers, daughters and the sometimes unbridgeable space in between
 
