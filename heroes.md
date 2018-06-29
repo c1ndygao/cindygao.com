@@ -29,7 +29,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <h4 style="text-align:right">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
-<p style="width:350px; text-align:right;">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
+<p style="width:350px">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
 
 <br>
 <br>
@@ -53,10 +53,10 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <img src="/images/yitang-zhang.jpg" height="270" align="left">
 
-#### Yitang "Tom" Zhang 张益唐, mathematician ####
-<p style="width:320px;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.</p>
+<h4>Yitang "Tom" Zhang 张益唐, mathematician</h4>
+<p style="width:320px;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
-[obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics]
+[obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics] </p>
 
 <br>
 <br>
