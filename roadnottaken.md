@@ -3,6 +3,8 @@ layout: page
 title: road not taken
 ---
 
+<h4><a href="/writings">< back to writings</a></h4>
+
 ### road not taken ###
 stories about people at a crossroad and the path chosen for them
 
