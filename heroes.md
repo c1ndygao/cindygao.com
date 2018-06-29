@@ -16,7 +16,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <br>
 
-<img src="/images/cs-wu.jpeg" height="270" align="right">
+<img src="/images/cs-wu.jpeg" height="270" align="right" padding="0px 0px 50px 50px">
 
 #### Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
 Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
@@ -25,7 +25,7 @@ Wu worked on the Manhattan Project, developing the process for separating uraniu
 
 <br>
 
-<img src="/images/lee-yang.jpg" height="270" align="left">
+<img src="/images/lee-yang.jpg" height="270" align="left" padding="0px 50px 50px 0px">
 
 #### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists ####
 
