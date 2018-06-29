@@ -25,7 +25,7 @@ Wu worked on the Manhattan Project, developing the process for separating uraniu
 
 <br>
 
-<img src="/images/lee-yang.jpg" style="height: 270px; text-align: right; padding: 0px 50px 50px 0px;">
+<img src="/images/lee-yang.jpg" style="height: 270px; text-align: right; padding: 0px 20px 20px 0px;">
 
 #### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists ####
 
