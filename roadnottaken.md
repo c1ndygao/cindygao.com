@@ -13,7 +13,7 @@ during my annual visit home to see my extended family, i take a daily walk with 
 
 on our walks, she likes to talk about anything from what she had for breakfast to stories from the past. when you are at that age, you spend every day mainly focused on meals and memories. as she's gotten older, i've noticed that she's also become a lot more open about sharing her thoughts and feelings, often screaming them, thinking everyone else around her is also hard of hearing. 
 
-<img src="/images/yeye-nainai.jpg" height="450"> <img src="/images/yeye-nainai-anniv.jpg" height="450">
+<img src="/images/yeye-nainai.jpg" height="350"> <img src="/images/yeye-nainai-anniv.jpg" height="350">
 
 my grandparents were married for 58 years. they used to write poems to each other into their 50s and 60s. my grandma has written a letter a to my grandpa every time she visitsi'd heard a rumor a long time ago and wanted to use our walk to hear it from the source.
 
