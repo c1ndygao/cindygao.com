@@ -58,25 +58,29 @@ maybe...
 you were coming out.  
 
 #### love you ####
-the year i turned 30 seemed as good a time as any, i reckon  
-it didn't happen sooner, maybe  
+the year i turned 30 (and ma 60) seemed as good a time as any, i reckon  
+maybe,  
+it didn't happen sooner  
 because if we weren't fighting,  
 we weren't talking.  
-it didn't happen sooner, maybe  
-because i didn't know if i'd mean it.  
-it was just like any other trip home,  
-a lot of food, silence, chinese tv.  
-the whole weekend passed and   
+maybe,  
+because it's just not what asian families do.  
+or maybe,  
+because i didn't know if i'd mean it.   
+a whole weekend had passed and   
 i still hadn't done it.  
-we are at the airport, at departures, at our awkward hug...  
-"love you, mom", i mumbled in english, even though i had planned to say it in chinese  
-the words squeezed out of me and caught both of us by surprise.   
+we are at the airport, at departures, at our awkward hug.
+maybe, i'll just do it when i'm 40. 
+"love you, mom", i mumbled in english,  
+the words squeezed out of me by nervous indigestion 
+and caught both of us by surprise.  
+i had planned to say it in chinese,  
+and also clearly indicating that it was me who did the loving.  
 "love you, too", ma said, also in english,  
 a language she's never been able to grasp after almost 30 years in america.  
 and that was it.   
 the first time we said those words to each other.  
 out loud.   
-we haven't said it again, but maybe  
-once is enough  
-to last a lifetime.  
-
+we haven't said them again since.  
+but maybe,  
+once is enough for this lifetime.  
