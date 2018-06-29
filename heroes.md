@@ -39,7 +39,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 #### I. M. Pei 贝夷铭 ####
 
-Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris.
+<p style="width:300px;">Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris.</p>
 
 <br>
 <br>
@@ -48,7 +48,7 @@ Pei's career spanned 5 decades with works on multiple continents, with the most 
 <img src="/images/yitang-zhang.jpg" height="270" align="left">
 
 <h4 style="align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
-<p style="align:justify;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
+<p style="text-align:justify; padding: 0px 0px 0px 20px">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
 [obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics] </p>
 
