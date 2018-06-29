@@ -63,7 +63,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 #### Bruce Lee 李小龙, martial artist/actor ####
 
-<p style="width:400px;">Bruce Lee needs no introduction. He is one of the most influential martial artists of all time and changed the way Asians were presented in pop culture, creating heroic characters admired by many around the world. He sparked a craze for martial arts in the West for a whole generation in the 1970s and was established as an icon among the Chinese for the promotion of Chinese patriotism and strength, upending China's stereotype of being the "sick man of Asia".</p>
+<p style="width:390px;">Bruce Lee needs no introduction. He is one of the most influential martial artists of all time and changed the way Asians were presented in pop culture, creating heroic characters admired by many around the world. He sparked a craze for martial arts in the West for a whole generation in the 1970s and was established as an icon among the Chinese for the promotion of Chinese patriotism and strength, upending China's stereotype of being the "sick man of Asia".</p>
 
 <br>
 
@@ -114,7 +114,7 @@ Fong was the a Republican senator from Hawaii from 1959 to 1977, making him the 
 <img src="/images/michael-chang.jpeg" height="270" align="right"> 
 
 #### Michael Chang 张德培, athlete ####
-<p style="width:260px;">Chang, at 17 years and 110 days, became the youngest male athlete to have ever won a Grand Slam at the 1989 French Open. He was the youngest athlete to have won a Grand Slam until Maria Sharapova won Wimbledon in 2004 at the age of 17 years 75 days.</p>
+<p style="width:250px;">Chang, at 17 years and 110 days, became the youngest male athlete to have ever won a Grand Slam at the 1989 French Open. He was the youngest athlete to have won a Grand Slam until Maria Sharapova won Wimbledon in 2004 at the age of 17 years 75 days.</p>
 
 <br>
 
@@ -124,4 +124,3 @@ Fong was the a Republican senator from Hawaii from 1959 to 1977, making him the 
 
 <p style="text-align:justify">Wang joined Vogue right after her graduation from Sarah Lawrence, making her the youngest editor at the top fashion magazine. She designs custumes for figure skaters (having been an accomplished skater herself), but she is best known for her bridal wear and evening gowns, which have been worn by Victoria Beckham, Alica Keys, Michelle Obama, Ivanka Trump and the Kardashians.</p>
 
-<br>
