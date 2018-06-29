@@ -2,14 +2,14 @@
 layout: page
 title: people you should know but don't
 ---
-## Hidden in Plain Sight ##
+<h2>Hidden in Plain Sight</h2>
 these are some women and men, immigrants from China or Chinese Americans, whom you should know but probably don't. it's never too late to rewrite the history books.
 
-### Chinese Immigrants ###
+<h3>Chinese Immigrants</h3>
 
 <img src="/images/tyrus-recent.png" height="225">   <img src="/images/tyrus-bambi.jpg" height="225">
 
-#### Tyrus Wong 黄齐耀, artist/animator ####
+<h4>Tyrus Wong 黄齐耀, artist/animator</h4>
 Tyrus Wong created the look of the film _Bambi_.
 
 [obstacle: never received recognition for his work]
@@ -18,8 +18,8 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <img src="/images/cs-wu.jpeg" height="270px" align="right" padding="0 00 50 50">
 
-#### Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
-<p style="width:320px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
+<h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
+<p style="width:350px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
 
 [obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). </p>
 
@@ -27,9 +27,9 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <img src="/images/lee-yang.jpg" height="270px" align="left">
 
-#### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists ####
+<h4 style="align:right;">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
-<p style="width:320px;">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
+<p style="width:350px; align:right">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
 
 <br>
 <br>
