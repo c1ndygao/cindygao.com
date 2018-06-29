@@ -19,17 +19,17 @@ Tyrus Wong created the look of the film _Bambi_.
 <img src="/images/cs-wu.jpeg" height="270px" align="right" padding="0 00 50 50">
 
 #### Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist ####
-<p style="width:300px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
+<p style="width:320px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
 
 [obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). </p>
 
 <br>
 
-<img src="/images/lee-yang.jpg" height="270px" align="left" padding="0px 50px 50px 0px">
+<img src="/images/lee-yang.jpg" height="270px" align="left">
 
 #### T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists ####
 
-Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.
+<p style="width:320px;">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
 
 <br>
 <br>
@@ -51,10 +51,10 @@ Yang and Lee received the 1957 Nobel Prize in Physics for their work on the viol
 <br>
 <br>
 
-<img src="/images/yitang-zhang.jpg" height="270" align="left" padding="0px 50px 0px 0px">
+<img src="/images/yitang-zhang.jpg" height="270" align="left">
 
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
-Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
+<p style="width:320px;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.</p>
 
 [obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics]
 
