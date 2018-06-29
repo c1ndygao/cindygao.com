@@ -39,7 +39,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 #### I. M. Pei 贝夷铭 ####
 
-<p style="width:300px;">Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris.</p>
+<p style="width:320px;">Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris. He won the prestigious Pritzker Prize for Architecture in 1983.</p>
 
 <br>
 <br>
@@ -47,7 +47,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <img src="/images/yitang-zhang.jpg" height="270" align="left">
 
-<h4 style="align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
+<h4 style="text-align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
 <p style="text-align:justify; padding: 0px 0px 0px 20px;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
 
 [obstacle: prof refused to recommend for any post after PhD, could not find work in mathematics] </p>
@@ -63,18 +63,8 @@ Tyrus Wong created the look of the film _Bambi_.
 
 #### Bruce Lee 李小龙, martial artist/actor ####
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p style="width:380px;">Bruce Lee needs no introduction. He is one of the most influential martial artists of all time and changed the way Asians were presented in pop culture, creating heroic characters admired by many around the world. He sparked a craze for martial arts in the West for a whole generation in the 1970s and was established as an icon among the Chinese for the promotion of Chinese patriotism and strength, opending the stereotype of China being the "sick man of Asia".</p>
+
 
 <img src="/images/Wah_Chang.jpg" height="225"> <img src="/images/tricorder.jpg" height="225"> <img src="/images/tribbles.jpg" height="225"> 
 
