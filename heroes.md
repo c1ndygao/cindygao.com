@@ -51,7 +51,7 @@ Yang and Lee received the 1957 Nobel Prize in Physics for their work on the viol
 <br>
 <br>
 
-<img src="/images/yitang-zhang.jpg" height="270" align="left" padding="0 50 0 0">
+<img src="/images/yitang-zhang.jpg" height="270" align="left" padding="0px 50px 0px 0px">
 
 #### Yitang "Tom" Zhang 张益唐, mathematician ####
 Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
