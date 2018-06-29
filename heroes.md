@@ -29,7 +29,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 <h4 style="text-align:right">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
-<p style="text-align:right; width:380px;">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
+<p style="text-align:justify">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
 
 <br>
 <br>
