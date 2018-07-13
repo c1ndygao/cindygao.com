@@ -3,6 +3,24 @@ layout: default
 title: whyshenme
 ---
 
+### real proverbs ###
+
+> Ivanka Trump, the elder daughter of President Trump, celebrated her father’s landmark meeting with the leader of North Korea after decades of hostilities between the two countries by quoting what she called a Chinese proverb. “Those who say it can not be done, should not interrupt those doing it,” Ms. Trump posted Monday on Twitter hours before Mr. Trump’s face-to-face meeting with Kim Jong-un in Singapore...The saying, it turned out, was not Chinese.
+
+This section will highlight real proverbs that aptly describe daily headlines in this crazy world we currently live in.
+
+#### Headline ####
+#### 痴人说梦 ####
+explainer:  
+
+
+#### Headline ####
+#### proverb ####
+explainer:  
+
+
+---------------------
+
 
 ### 十二生肖成语 | idioms of the 12 animals of the zodiac ###
 
