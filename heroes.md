@@ -7,6 +7,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <h3>Chinese Immigrants</h3>
 
+<bio>
 <img src="/images/tyrus-recent.png" height="225">   <img src="/images/tyrus-bambi.jpg" height="225">
 
 <h4>Tyrus Wong 黄齐耀, artist/animator</h4>
@@ -14,7 +15,9 @@ Tyrus Wong created the look of the film _Bambi_.
 
 [obstacle: never received recognition for his work]
 
+</bio>
 
+<bio>
 <img src="/images/cs-wu.jpeg" height="270px" align="right" margin-left="30px">
 
 <h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
@@ -22,6 +25,7 @@ Tyrus Wong created the look of the film _Bambi_.
 
 [obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). </p>
 
+</bio>
 
 <img src="/images/lee-yang.jpg" height="270px" align="left" margin="30px" padding-right="20px">
 
