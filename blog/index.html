@@ -5,11 +5,11 @@ title: pen on paper
 	<ul class="posts">
 
 	{% for post in site.posts %}
-	<div style="border-bottom: 1px solid #d5d5d5"></div>
+	<div style="border-bottom: 1px solid #d5d5d5">
 		<li><a href="{{ post.url }}" title="{{ post.title }}"><h2>{{ post.title }}</h2></a> » <span>{{ post.date | date_to_string }}</span></li><br/>
 		{{ post.content }}
     	    	</li>
-		</div>
+	</div>
 	{% endfor %}
 	
 	</ul>
