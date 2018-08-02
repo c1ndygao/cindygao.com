@@ -12,7 +12,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <h4>Tyrus Wong 黄齐耀, artist/animator</h4>
 
-<p>Tyrus Wong created the look of the film _Bambi_.
+<p>Tyrus Wong created the look of the film <i>Bambi</i>.
 
 [obstacle: never received recognition for his work]</p>
 
@@ -24,7 +24,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
 
-<p style="width:380px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
+<p>Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
 
 [obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). </p>
 
@@ -46,7 +46,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <h4>I. M. Pei 贝夷铭, architect</h4>
 
-<p style="width:330px;">Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris. He won the prestigious Pritzker Prize for Architecture in 1983.</p>
+<p>Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris. He won the prestigious Pritzker Prize for Architecture in 1983.</p>
 
 </div>
 
@@ -70,7 +70,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <h4>Bruce Lee 李小龙, martial artist/actor</h4>
 
-<p style="width:390px;">Bruce Lee needs no introduction. He is one of the most influential martial artists of all time and changed the way Asians were presented in pop culture, creating heroic characters admired by many around the world. He sparked a craze for martial arts in the West for a whole generation in the 1970s and was established as an icon among the Chinese for the promotion of Chinese patriotism and strength, upending China's stereotype of being the "sick man of Asia".</p>
+<p>Bruce Lee needs no introduction. He is one of the most influential martial artists of all time and changed the way Asians were presented in pop culture, creating heroic characters admired by many around the world. He sparked a craze for martial arts in the West for a whole generation in the 1970s and was established as an icon among the Chinese for the promotion of Chinese patriotism and strength, upending China's stereotype of being the "sick man of Asia".</p>
 
 </div>
 
@@ -123,7 +123,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <h4>Michael Chang 张德培, athlete</h4>
 
-<p style="width:250px;">Chang, at 17 years and 110 days, became the youngest male athlete to have ever won a Grand Slam at the 1989 French Open. He was the youngest athlete to have won a Grand Slam until Maria Sharapova won Wimbledon in 2004 at the age of 17 years 75 days.</p>
+<p>Chang, at 17 years and 110 days, became the youngest male athlete to have ever won a Grand Slam at the 1989 French Open. He was the youngest athlete to have won a Grand Slam until Maria Sharapova won Wimbledon in 2004 at the age of 17 years 75 days.</p>
 
 </div>
 
