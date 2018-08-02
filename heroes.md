@@ -11,14 +11,15 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 <img src="/images/tyrus-recent.png" height="225">   <img src="/images/tyrus-bambi.jpg" height="225">
 
 <h4>Tyrus Wong 黄齐耀, artist/animator</h4>
-Tyrus Wong created the look of the film _Bambi_.
+<p>Tyrus Wong created the look of the film _Bambi_.
 
-[obstacle: never received recognition for his work]
+[obstacle: never received recognition for his work]</p>
 
 </div>
 
+
 <div class="bio">
-<img src="/images/cs-wu.jpeg" height="270px" align="right" margin-left="30px">
+<img src="/images/cs-wu.jpeg" height="270px" align="right" padding-left="30px">
 
 <h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
 <p style="width:380px;">Wu worked on the Manhattan Project, developing the process for separating uranium into uranium-235 and uranium-238 isotopes. She was nicknamed the Chinese Marie Curie, the First Lady of Physics and the Queen of Nuclear Research. 
@@ -27,25 +28,26 @@ Tyrus Wong created the look of the film _Bambi_.
 
 </div>
 
-<img src="/images/lee-yang.jpg" height="270px" align="left" margin="30px" padding-right="20px">
+
+<div class="bio">
+<img src="/images/lee-yang.jpg" height="270px" align="left" padding-right="20px">
 
 <h4 style="text-align:right">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
 <p style="text-align:justify">Yang and Lee received the 1957 Nobel Prize in Physics for their work on the violation of parity law in weak interaction, showing theoretically that it is possbile to distinguish right from left and clockwise from counterclockwise. They were the first Chinese laureates.</p>
 
-<br>
-<br>
-<br>
+</div>
 
-<img src="/images/pei-louvre.jpg" height="270" align="right">
+
+<div class="bio">
+<img src="/images/pei-louvre.jpg" height="270" align="right" padding-left="20px">
 
 #### I. M. Pei 贝夷铭 ####
 
-<p style="width:320px;">Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris. He won the prestigious Pritzker Prize for Architecture in 1983.</p>
+<p style="width:330px;">Pei's career spanned 5 decades with works on multiple continents, with the most notable being the John. F. Kennedy Library in Massachusetts, the Bank of China Tower in Hong Kong, and the most controversial Louvre Pyramid in Paris. He won the prestigious Pritzker Prize for Architecture in 1983.</p>
 
-<br>
-<br>
-<br>
+</div>
+
 
 <img src="/images/yitang-zhang.jpg" height="270" align="left" padding-right="20px">
 
