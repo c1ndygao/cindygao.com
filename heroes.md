@@ -14,7 +14,6 @@ Tyrus Wong created the look of the film _Bambi_.
 
 [obstacle: never received recognition for his work]
 
-<br>
 
 <img src="/images/cs-wu.jpeg" height="270px" align="right" margin-left="30px">
 
@@ -23,9 +22,8 @@ Tyrus Wong created the look of the film _Bambi_.
 
 [obstacle: discrimination by race/gender] The Wu Experiment in 1956 validated the theoretical proof by Yang and Lee (below) that contradicted the law of conservation of parity, directly resulting in the two men receiving the 1957 Nobel Prize (of course). </p>
 
-<br>
 
-<img src="/images/lee-yang.jpg" height="270px" align="left" margin="30px">
+<img src="/images/lee-yang.jpg" height="270px" align="left" margin="30px" padding-right="20px">
 
 <h4 style="text-align:right">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
@@ -45,7 +43,7 @@ Tyrus Wong created the look of the film _Bambi_.
 <br>
 <br>
 
-<img src="/images/yitang-zhang.jpg" height="270" align="left">
+<img src="/images/yitang-zhang.jpg" height="270" align="left" padding-right="20px">
 
 <h4 style="text-align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
 <p style="text-align:justify; padding: 0px 0px 0px 20px;">Yitang Zhang, working completely on his own, established the first finite bound on gaps between prime numbers, making substantial progress in proving the Twin Prime Conjecture.
