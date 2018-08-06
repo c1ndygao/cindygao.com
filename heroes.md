@@ -20,7 +20,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/cs-wu.jpeg" height="270px" align="right" padding-left="30px">
+<img src="/images/cs-wu.jpeg" height="270px" align="right" style="padding-left:30px">
 
 <h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
 
@@ -32,7 +32,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/lee-yang.jpg" height="270px" align="left" padding-right="20px">
+<img src="/images/lee-yang.jpg" height="270px" align="left" style="padding-right:20px">
 
 <h4 style="text-align:right">T.D. (Tsung-Dao, Zhengdao) Lee 李政道 + Zhenning (Chen-ning) "Frank" Yang 杨振宁, theoretical physicists</h4>
 
@@ -42,7 +42,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/pei-louvre.jpg" height="270" align="right" padding-left="20px">
+<img src="/images/pei-louvre.jpg" height="270" align="right" style="padding-left:20px">
 
 <h4>I. M. Pei 贝夷铭, architect</h4>
 
@@ -51,7 +51,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 </div>
 
 <div class="bio">
-<img src="/images/yitang-zhang.jpg" height="270" align="left" padding-right="20px">
+<img src="/images/yitang-zhang.jpg" height="270" align="left" style="padding-right:"20px">
 
 <h4 style="text-align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
 
