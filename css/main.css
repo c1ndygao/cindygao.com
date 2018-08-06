@@ -67,7 +67,7 @@ a:selected {
 
 h1 {
     font-size: 2em;
-    font-family: 'Poppins';        
+    font-family: 'Poppins', sans-serif;        
 }
 h2 {
     font-size: 1.8em;
