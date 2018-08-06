@@ -89,9 +89,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 <div class="bio">
 <img src="/images/lee-boggs.jpg" height="270" align="right" style="padding-left:20px">
-
 <h4>Grace Lee Boggs 李玉平, activist</h4>
-
 <p>Grace Lee Boggs dedicated her life to the struggles in the African-American community.</p>
 
 </div>
