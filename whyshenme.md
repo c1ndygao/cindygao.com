@@ -9,15 +9,23 @@ title: whyshenme
 
 This section will highlight real proverbs that aptly describe daily headlines in this crazy world we currently live in.
 
+
+#### headline ####
+> Lebron James was just interviewed by the dumbest man on television, Don Lemon. He made Lebron look smart, which isn’t easy to do. I like Mike! -@realDonaldTrump, Aug 3, 2018  
+
+**狗口里吐不出象牙** gou3 kou3 li3 tu4 bu4 chu1 xiang4 ya2  
+**translation**: can’t spit out an elephant tooth from a dog’s mouth  
+**meaning**: a bad person’s inability to say anything good  
+
 #### Headline ####
-#### 痴人说梦 ####
-explainer:  
-
+**痴人说梦**
+**translation**: 
+**meaning**: 
 
 #### Headline ####
-#### proverb ####
-explainer:  
-
+**猪朋狗友**
+**translation**: 
+**meaning**: 
 
 ---------------------
 
