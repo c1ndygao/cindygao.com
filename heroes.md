@@ -20,7 +20,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/cs-wu.jpeg" height="270px" align="right" style="padding-left:30px">
+<img src="/images/cs-wu.jpeg" height="270px" align="right" style="padding: 1.33em 0px 0px 1.33em">
 
 <h4>Chien-Shiung (Jianxiong) Wu 吴健雄, experimental physicist</h4>
 
