@@ -51,7 +51,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 </div>
 
 <div class="bio">
-<img src="/images/yitang-zhang.jpg" height="270" align="left" style="padding-right:"20px">
+<img src="/images/yitang-zhang.jpg" height="270" align="left" style="padding-right:20px">
 
 <h4 style="text-align:right;">Yitang "Tom" Zhang 张益唐, mathematician</h4>
 
@@ -66,7 +66,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 <h3>Chinese Americans</h3>
 
 <div class="bio">
-<img src="/images/bruce-lee-square.jpeg" height="270" align="right">
+<img src="/images/bruce-lee-square.jpeg" height="270" align="right" style="padding-left:20px">
 
 <h4>Bruce Lee 李小龙, martial artist/actor</h4>
 
@@ -88,7 +88,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/lee-boggs.jpg" height="270" align="right">
+<img src="/images/lee-boggs.jpg" height="270" align="right" style="padding-left:20px">
 
 <h4>Grace Lee Boggs 李玉平, activist</h4>
 
@@ -98,7 +98,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="images/anna-may-wong.jpg" height="270" align="left">
+<img src="images/anna-may-wong.jpg" height="270" align="left" style="padding-right:20px">
 
 <h4>Anna May Wong 黄柳霜, actor</h4>
 
@@ -119,7 +119,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/michael-chang.jpeg" height="270" align="right"> 
+<img src="/images/michael-chang.jpeg" height="270" align="right" style="padding-left:20px"> 
 
 <h4>Michael Chang 张德培, athlete</h4>
 
@@ -129,7 +129,7 @@ these are some women and men, immigrants from China or Chinese Americans, whom y
 
 
 <div class="bio">
-<img src="/images/vera-wang.jpg" height="270" align="left"> 
+<img src="/images/vera-wang.jpg" height="270" align="left" style="padding-right:20px"> 
 
 <h4>Vera Wang 王薇薇, designer</h4>
 
