@@ -17,15 +17,19 @@ This section will highlight real proverbs that aptly describe daily headlines in
 **translation**: can’t spit out an elephant tooth from a dog’s mouth  
 **meaning**: a bad person’s inability to say anything good  
 
-#### Headline ####
-**痴人说梦**
-**translation**: 
-**meaning**: 
+#### headline ####
+> You don't have to agree with trump but the mob can't make me not love him. We are both dragon energy. He is my brother. I love everyone. I don't agree with everything anyone does. That's what makes us individuals. And we have the right to independent thought. @kanyewest, Apr 25, 2018
 
-#### Headline ####
 **猪朋狗友**
-**translation**: 
-**meaning**: 
+**translation**: pig companions dog friends  
+**meaning**: disreputable peers  
+
+
+#### headline ####
+
+**痴人说梦**
+**translation**: a fool talks dreams/nonsense  
+**meaning**: lunatic ravings  
 
 ---------------------
 
