@@ -90,17 +90,6 @@ footer {
     font-size: 1em;
 }
 
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-<div>
-    <div style="float: left;">Sidebar</div>
-    <div style="clear: both;"></div> <!-- Clear the float -->
-</div>
-
 .bio {
     padding: 0px 0px 20px 0px;  
     display: inline-block;
