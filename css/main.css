@@ -35,6 +35,7 @@ ol {
     padding: 0px;
 }
 ol li {
+    font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     display: inline;
     list-style: decimal;
 }
@@ -52,7 +53,7 @@ a:hover {
 a:selected {
     color: grey;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: overline;
 }
 
 h1 {
@@ -75,7 +76,7 @@ h4 {
 p {
     font-size: 1em;
     line-height: 1.5em;
-    color: #444444;
+    color: #595959;
     font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     font-weight: normal;
 }
