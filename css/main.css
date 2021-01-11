@@ -50,7 +50,7 @@ a:hover {
     text-decoration: none;
 }
 
-a:selected {
+a:active {
     color: grey;
     background-color: transparent;
     text-decoration: overline;
