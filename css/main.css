@@ -42,13 +42,9 @@ ol li {
     color: #595959;
 }
 
-a.class1 {text-decoration: none; color:#DF9496;}
-a.class1:hover {color: grey; background-color: transparent; text-decoration: none;}
-a.class1:active {color: grey; background-color: transparent; text-decoration: none;}
-
-a.class2 {text-decoration: none; color:#45B6FE;}
-a.class2:hover {color: grey; background-color: transparent; text-decoration: none;}
-a.class2:active {color: grey; background-color: transparent; text-decoration: none;}
+a {text-decoration: none; color:#DF9496;}
+a:hover {color: grey; background-color: transparent; text-decoration: none;}
+a:active {color: grey; background-color: transparent; text-decoration: none;}
 
 
 h1 {
