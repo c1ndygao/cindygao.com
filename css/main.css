@@ -24,6 +24,7 @@ nav {
 }
 ul {
     font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
+    font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     padding: 0px;
 }
 ul li {
@@ -47,7 +48,7 @@ a:hover {color: grey; background-color: transparent; text-decoration: none;}
 
 h1 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif; 
+    font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     font-weight: bold;
 }
 h2 {
