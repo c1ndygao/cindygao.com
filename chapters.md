@@ -4,9 +4,9 @@ title: chapters
 ---
 
 ### 1 : Overview of Clinical Data Science
-        1.1 Project Examples
-        1.2 A Taxonomy of Problems
-        1.3 Terms and Contrasts
+   1.1 Project Examples  
+   1.2 A Taxonomy of Problems  
+   1.3 Terms and Contrasts  
 
 ### 2 : Classification
         2.1 Definitions
