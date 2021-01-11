@@ -1,6 +1,6 @@
 ---
 layout: default
-title: chapters
+title: readings
 ---
 
 
