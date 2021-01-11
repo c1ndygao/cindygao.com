@@ -29,6 +29,7 @@ ul {
 ul li {
     display: inline;
     list-style: circle;
+    color: #595959;
 }
 ol {
     font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
@@ -38,6 +39,7 @@ ol li {
     font-family: 'Raleway', sans-serif, source-han-sans-simplified-c, sans-serif;
     display: inline;
     list-style: decimal;
+    color: #595959;
 }
 
 a.class1 {text-decoration: none; color:#DF9496;}
