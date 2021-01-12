@@ -15,11 +15,28 @@ Jill Stoltzfus, Academic Emergency Medicine, 2011
 **[Machine Learning in Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/pdf/nihms729905.pdf)**   
 Rahul C. Deo, Circulation, 2015
 
+**[Missing data imputation using statistical and machine learning methods in a real breast cancer problem](https://www.sciencedirect.com/science/article/pii/S0933365710000679?via%3Dihub)**   
+José Jerez el al, Artificial Intelligence in Medicine, 2010
+
 **[Modern Clinical Text Mining: A Guide and Review]**  
 Bethany Percha, Annual Review of Biomedical Data Science, 2021
+
+**[The Null Ritual: What you always wanted to know about significance testing but were afraid to ask](https://pdfs.semanticscholar.org/b308/ab0e4a8b7fea898d5a11fb41496c6c2be057.pdf?_ga=2.184276774.1419783431.1610479015-824802640.1610479015)**  
+Gerd Gigerenzer, Stefan Krauss, and Oliver Vitouch, The Sage handbook of quantitative methodology for the social sciences, 2004
+
+**[A short tutorial of GPower](http://www.tqmp.org/Content/vol03-2/p051/p051.pdf)**   
+Axel Buchner, Edgar Erdfelder, Susanne Mayr, Franz Faul, Tutorials in quantitative methods for psychology, 2007
 
 **[Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)**   
 Leo Breiman, Statistical Science, 2001
 
+**[A Study of K-Nearest Neighbour as an Imputation Method](https://sites.icmc.usp.br/gbatista/files/his2002.pdf)**  
+Gustavo Batista, Maria Carolina Monard, HIS, 2002
+
 **[Why Doctors Hate Their Computers](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)**   
 Atul Gawande, The New Yorker, 2018
+
+**[Why Most Published Research Findings Are False](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)**   
+John Ioannidis, PLoS medicine, 2005
+
+
