@@ -28,6 +28,7 @@ Classification is a form of supervised learning in which the outcome is a catego
 #### NOTES                
 #### AUDIO   
 
+----------------
 
 ### 4 : Probability Distributions
 
@@ -37,6 +38,7 @@ The following sections review some key probability concepts – in an extremely 
 #### NOTES                
 #### AUDIO   
 
+----------------
 
 ### 5 : Maximum Likelihood Estimation*
 
@@ -45,40 +47,89 @@ Beneath our discussions of classification, regression, and probability distribu-
 #### NOTES                
 #### AUDIO  
 
+----------------
 
 ### 6 : Generalized Linear Models*
 
 Generalized linear models (GLMs) are a class of supervised learning models that form a convenient bridge between machine learning and traditional statistics. The basic idea behind a GLM is that your outcome variable (a.k.a. response variable, see Chapter 2), y, follows a probability distribution. The expected value, or mean, of that distribution is related to the values of the predictors (a.k.a. covariates; see Chapters 2 and 3), x1, . . . , xp in a model- specific way.
 
+#### NOTES                
+#### AUDIO  
+
+----------------
+
 ### 7 : Fitting and Interpreting GLMs
 
 Generalized linear models (Chapter 6) are just one way to approach super- vised learning. However, they are by far the most common approach in the clinical research literature. Linear and logistic regression are established, stan- dard methods for clinical data analysis in contexts where you want to relate the effects of one or more predictors to an outcome that is a number or a class (e.g. yes/no). Because of this, it is important to know how to interpret these models – e.g., what the coefficients, standard errors, and model diagnostics mean – and how to fit them using software.
 
+#### NOTES                
+#### AUDIO  
+
+----------------
 
 ### 8 : Hypothesis Testing
 
 Hypothesis testing is the central idea underpinning most of the analysis you’ll find in the clinical and biomedical research literature . There are multiple types of hypothesis testing, but the most common type is null hypothesis testing, most of the theory of which originated from the statistician R.A. Fisher. In null hypothesis testing, you create a model of how your data should look under default conditions, and then you look to see whether your data deviate appreciably from the model. You quantify your data’s deviation from the model by calculating a test statistic. One can view this type of hypothesis testing as a form of anomaly detection.
 
+#### NOTES                
+#### AUDIO  
+
+----------------
 
 ### 9 : Decision Trees
 
 Decision trees were developed as an alternative to neural networks in the 1970s. They can be used either for classification or regression. There are several algorithms for fitting decision trees, all of which are heuristic, because the general problem of learning an optimal decision tree for a dataset is NP- complete. All algorithms for tree learning are greedy and are not guaranteed to give the optimal solution.
 
+#### NOTES                
+#### AUDIO  
+
+----------------
 
 ### 10 : The Bias-Variance Tradeoff
 
 In classification, model complexity (i.e. the effective number of parameters the model must fit) is typically related to the intricacy and complexity of the decision boundary; the more parameters in the model, the more complex the boundary.
 
+#### NOTES                
+#### AUDIO  
 
+----------------
 
 ### 11 : Feature Engineering and Feature Selection
 
 The methods we’ve studied in Chapters 2 and 3, as well as all other supervised (and unsupervised) machine learning algorithms, all depend on the concept of a feature. A feature is some aspect of each training example that the model designer believes will influence its relationship to the outcome, or that captures some aspect of the data in a way that is relevant to the problem he/she is trying to solve. Before any algorithm can be applied, therefore, it is necessary to decide how to represent the data: which features to include and how to extract them from the raw data. This task is called feature engineering. In most cases, the model designer will also want to incorporate some form of feature selection: a process that automatically or semi-automatically decides which features are most relevant to the model and discards the others.
 
+#### NOTES                
+#### AUDIO  
+
+----------------
+
 ### 12 : Lasso, Ridge, and Elastic Net
+
+
+#### NOTES                
+#### AUDIO  
+
+----------------
 
 ### 13 : Random Forests
 
+
+#### NOTES                
+#### AUDIO  
+
+----------------
+
 ### 14 : Boosting
 
+
+#### NOTES                
+#### AUDIO  
+
+----------------
+
 ### 15 : Missing Data
+
+
+#### NOTES                
+#### AUDIO  
+
