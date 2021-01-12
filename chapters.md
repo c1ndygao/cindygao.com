@@ -8,9 +8,10 @@ title: chapters
 Data science is about using the machinery of statistics and computer science to solve real-world problems. In the clinical domain, that means incorporating methods from epidemiology, biostatistics, computer science, and machine learning with insights gained from the clinical research literature and the prac- tical experiences of physicians, nurses, hospital administrators, operational teams, and biomedical researchers.
 
 #### NOTES                
-#### AUDIO   
+#### AUDIO 
 
 
+----------
 ### 2 : Classification
 
 Classification is a form of supervised learning in which our goal is to learn a mapping between some features, x, and an output, y. In classification, the output, y, is a category. In binary classification (by far the most common), there are only two categories: yes or no, usually represented as “0” (no) or “1” (yes). In multi-class classification, there are more than two categories.
@@ -18,6 +19,7 @@ Classification is a form of supervised learning in which our goal is to learn a 
 #### NOTES                
 #### AUDIO     
 
+----------------
 
 ### 3 : Regression
 
