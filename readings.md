@@ -4,7 +4,7 @@ title: readings
 ---
 
 **[Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)**   
-Ewout Steyerberg, Patrick Bossuyt, Kerry L.Lee, American Heart Journal, 2000 
+Ewout Steyerberg, Patrick Bossuyt, Kerry Lee, American Heart Journal, 2000 
 
 **[An Introduction to Statistical Learning, Ch. 4: Classification](https://www.springer.com/gp/book/9781461471370)**   
 Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani, 2013
@@ -15,7 +15,7 @@ Jill Stoltzfus, Academic Emergency Medicine, 2011
 **[Machine Learning in Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/pdf/nihms729905.pdf)**   
 Rahul C. Deo, Circulation, 2015
 
-**[Modern Clinical Text Mining: A Guide and Review]()**  
+**[Modern Clinical Text Mining: A Guide and Review]**  
 Bethany Percha, Annual Review of Biomedical Data Science, 2021
 
 **[Statistical Modeling: The Two Cultures](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726)**   
