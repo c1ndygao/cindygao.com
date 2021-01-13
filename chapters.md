@@ -3,13 +3,13 @@ layout: default
 title: chapters
 ---
 
-### 1 : Overview of Clinical Data Science
+### 1 : A Taxonomy of Problems
 
-Data science is about using the machinery of statistics and computer science to solve real-world problems. In the clinical domain, that means incorporating methods from epidemiology, biostatistics, computer science, and machine learning with insights gained from the clinical research literature and the prac- tical experiences of physicians, nurses, hospital administrators, operational teams, and biomedical researchers.
+Data science is about using the machinery of statistics and computer science to solve real-world problems. In the clinical domain, that means incorporating methods from epidemiology, biostatistics, computer science, and machine learning with insights gained from the clinical research literature and the practical experiences of physicians, nurses, hospital administrators, operational teams, and biomedical researchers.
 
 #### NOTES                
 #### AUDIO 
-#### CHAPTER GUIDE
+#### [CHAPTER GUIDE[(https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf)
 
 
 ----------
@@ -19,7 +19,7 @@ Classification is a form of supervised learning in which our goal is to learn a 
 
 #### NOTES                
 #### AUDIO     
-#### CHAPTER GUIDE
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf)
 
 ----------------
 
