@@ -9,6 +9,7 @@ Data science is about using the machinery of statistics and computer science to 
 
 #### NOTES                
 #### AUDIO 
+#### CHAPTER GUIDE
 
 
 ----------
@@ -18,6 +19,7 @@ Classification is a form of supervised learning in which our goal is to learn a 
 
 #### NOTES                
 #### AUDIO     
+#### CHAPTER GUIDE
 
 ----------------
 
@@ -37,6 +39,7 @@ The following sections review some key probability concepts – in an extremely 
 
 #### NOTES                
 #### AUDIO   
+#### CHAPTER GUIDE
 
 ----------------
 
@@ -46,6 +49,7 @@ Beneath our discussions of classification, regression, and probability distribu-
 
 #### NOTES                
 #### AUDIO  
+#### CHAPTER GUIDE
 
 ----------------
 
@@ -55,6 +59,7 @@ Generalized linear models (GLMs) are a class of supervised learning models that 
 
 #### NOTES                
 #### AUDIO  
+#### CHAPTER GUIDE
 
 ----------------
 
@@ -64,6 +69,7 @@ Generalized linear models (Chapter 6) are just one way to approach super- vised 
 
 #### NOTES                
 #### AUDIO  
+#### CHAPTER GUIDE
 
 ----------------
 
@@ -73,6 +79,7 @@ Hypothesis testing is the central idea underpinning most of the analysis you’l
 
 #### NOTES                
 #### AUDIO  
+#### CHAPTER GUIDE
 
 ----------------
 
@@ -82,6 +89,7 @@ Decision trees were developed as an alternative to neural networks in the 1970s.
 
 #### NOTES                
 #### AUDIO  
+#### CHAPTER GUIDE
 
 ----------------
 
