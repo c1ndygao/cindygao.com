@@ -3,9 +3,11 @@ layout: default
 title: chapters
 ---
 
+Welcome to "Modern Clinical Data Science", a pilot course and discussion group for data-science-interested physicians and colleagues in the Dept. of Medicine at Mount Sinai. These notes are designed to introduce key data science concepts little by little, in small pieces. Each chapter contains notes and a slide presentation of key concepts (chapter guide). All presentations take less than 15 minutes.
+
 ### 1 : A Taxonomy of Problems
 
-Data science is about using the machinery of statistics and computer science to solve real-world problems. In the clinical domain, that means incorporating methods from epidemiology, biostatistics, computer science, and machine learning with insights gained from the clinical research literature and the practical experiences of physicians, nurses, hospital administrators, operational teams, and biomedical researchers.
+What is data science? We go through 14 examples of project ideas from real students, including physicians and operational/population health team members, and see how they reflect different types of questions. Key terms: supervised vs. unsupervised learning, classification vs. regression, time-to-event outcome, observational study vs. experiment.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf)            
 #### AUDIO 
@@ -15,7 +17,7 @@ Data science is about using the machinery of statistics and computer science to 
 ----------
 ### 2 : The Basics of Classification
 
-Classification is a form of supervised learning in which our goal is to learn a mapping between some features, x, and an output, y. In classification, the output, y, is a category. In binary classification (by far the most common), there are only two categories: yes or no, usually represented as “0” (no) or “1” (yes). In multi-class classification, there are more than two categories. To learn an appropriate mapping, we feed training data to a learning algorithm. Different algorithms learn different types of mappings.
+We investigate three different ways of solving classification problems: logistic regression, K-nearest neighbors (KNN), and decision trees. Using a simple ER readmissions example, we visualize the decision boundaries produced by each of these algorithms and discuss their advantages and disadvantages. Key terms: training and test data, feature, feature space, extrapolation, decision boundary, hyperparameter.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf)                
 #### AUDIO     
@@ -25,7 +27,7 @@ Classification is a form of supervised learning in which our goal is to learn a 
 
 ### 3 : The Basics of Regression
 
-Classification is a form of supervised learning in which the outcome is a category. Regression is another form of supervised learning in which the outcome is a numeric value. For example, it may be a lab value, physical characteristic (height, weight, etc.), or numeric measurement (e.g. oxygen saturation).
+We see how regression differs from classification and look at three regression algorithms that parallel the classification algorithms from Chapter 2. We visualize the regression problem using the same features as in Chapter 2 but a different outcome: the level of a "disease recurrence" biomarker. We see how the same machinery of linear models, KNN, and decision trees can be applied in a regression context.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3.pdf)                
 #### AUDIO   
@@ -35,7 +37,7 @@ Classification is a form of supervised learning in which the outcome is a catego
 
 ### 4 : Probability Distributions
 
-Many of the methods we will examine in these workshops depend on basic concepts from probability theory. For example, linear and logistic regression are members of a class of supervised learning algorithms called generalized linear models (see Chapter ??) which make assumptions about the type of probability distribution followed by the outcome variable. Decision trees use a concept called entropy (see Chapter 7), whose mathematical formulation depends on the probability distribution underlying the outcome. Many hypothesis tests (see Chapter 6) likewise rely on probabilistic assumptions about the data. Probability is everywhere. The following sections review some key probability concepts – in an extremely hand-wavey and non-rigorous way – and the properties of some of the most common probability distributions you will encounter in machine learning and statistics.
+We examine core concepts from probability through examples from several important probability distributions: the Gaussian (normal) distribution, Bernoulli distribution, binomial, Poisson, geometric, and exponential. We briefly discuss the chi-squared, T, and F distributions, which will be revisited later in Chapter 6 (Introduction to Hypothesis Testing). These ideas are important for understanding linear and logistic regression models, other probabilistic models, and most hypothesis tests.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4.pdf)                
 #### AUDIO   
@@ -45,7 +47,7 @@ Many of the methods we will examine in these workshops depend on basic concepts 
 
 ### 5 : The Basics of Maximum Likelihood Estimation
 
-Beneath our discussions of classification, regression, and probability distributions in Chapters 2, 3, and 4 lies the tricky problem of model fitting. We’ve seen what classification and regression models look like, but we still haven’t addressed how to fit these models using training data. Linear and logistic regression models are fit using a technique called maximum likelihood (ML) estimation, in which the model parameters are adjusted to maximize the joint probability of the observed data, or likelihood, given the model.
+Although it's usually thought of as an advanced topic, maximum likelihood estimation is key to understanding how many types of models are fit using software. Here we discuss the core ideas behind maximum likelihood estimation through simple examples, using the same distributions we saw in Chapter 4. Key terms: likelihood, log-likelihood, optimization.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5.pdf)                
 #### AUDIO  
@@ -55,7 +57,7 @@ Beneath our discussions of classification, regression, and probability distribut
 
 ### 6 : Introduction to Hypothesis Testing
 
-Hypothesis testing is a central idea underpinning much of the analysis in the clinical and biomedical research literature. There are multiple approaches to hypothesis testing, but the most common is null hypothesis testing, which was developed by the statistician R.A. Fisher. In null hypothesis testing, one creates a model of how the data should look under default conditions and then quantifies the observed data’s deviation from that model using a test statistic. If the test statistic is large enough, it means there is evidence that the default position is incorrect. The statisticians Jerzy Neyman and Karl Pearson developed a different approach to hypothesis testing based on the idea of model comparison. In their approach, one sets up different models and then quantifies each model’s fit to the data; the hypothesis test is used to see whether one model’s fit to the data is significantly better than another’s. We see the Neyman-Pearson philosophy reflected in techniques such as power calculations and likelihood ratio tests.
+We examine the most common type of hypothesis testing, null hypothesis testing, through three examples: the Z test, Pearson's chi-squared test, and [several forms of] the T-test. By seeing how different questions can be answered using the same formalism, we think through the meaning of terms like null hypothesis, null distribution, test statistic, and significance level. We address p-values only briefly and do not touch on confidence intervals; those will be covered in later chapters.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6.pdf)              
 #### AUDIO  
