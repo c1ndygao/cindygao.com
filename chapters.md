@@ -66,8 +66,8 @@ We examine the most common type of hypothesis testing, null hypothesis testing, 
 
 
 
-
-
+----------
+# below is old draft need to be replaced
 
 
 
