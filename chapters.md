@@ -7,9 +7,9 @@ title: chapters
 
 Data science is about using the machinery of statistics and computer science to solve real-world problems. In the clinical domain, that means incorporating methods from epidemiology, biostatistics, computer science, and machine learning with insights gained from the clinical research literature and the practical experiences of physicians, nurses, hospital administrators, operational teams, and biomedical researchers.
 
-#### NOTES                
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf)            
 #### AUDIO 
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf)
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1-guide.pdf)
 
 
 ----------
@@ -17,9 +17,9 @@ Data science is about using the machinery of statistics and computer science to 
 
 Classification is a form of supervised learning in which our goal is to learn a mapping between some features, x, and an output, y. In classification, the output, y, is a category. In binary classification (by far the most common), there are only two categories: yes or no, usually represented as “0” (no) or “1” (yes). In multi-class classification, there are more than two categories. To learn an appropriate mapping, we feed training data to a learning algorithm. Different algorithms learn different types of mappings.
 
-#### NOTES                
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf)                
 #### AUDIO     
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf)
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2-guide.pdf)
 
 ----------------
 
@@ -27,9 +27,9 @@ Classification is a form of supervised learning in which our goal is to learn a 
 
 Classification is a form of supervised learning in which the outcome is a category. Regression is another form of supervised learning in which the outcome is a numeric value. For example, it may be a lab value, physical characteristic (height, weight, etc.), or numeric measurement (e.g. oxygen saturation).
 
-#### NOTES                
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3.pdf)                
 #### AUDIO   
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3.pdf)
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3-guide.pdf)
 
 ----------------
 
@@ -37,9 +37,9 @@ Classification is a form of supervised learning in which the outcome is a catego
 
 Many of the methods we will examine in these workshops depend on basic concepts from probability theory. For example, linear and logistic regression are members of a class of supervised learning algorithms called generalized linear models (see Chapter ??) which make assumptions about the type of probability distribution followed by the outcome variable. Decision trees use a concept called entropy (see Chapter 7), whose mathematical formulation depends on the probability distribution underlying the outcome. Many hypothesis tests (see Chapter 6) likewise rely on probabilistic assumptions about the data. Probability is everywhere. The following sections review some key probability concepts – in an extremely hand-wavey and non-rigorous way – and the properties of some of the most common probability distributions you will encounter in machine learning and statistics.
 
-#### NOTES                
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4.pdf)                
 #### AUDIO   
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4.pdf)
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4-guide.pdf)
 
 ----------------
 
@@ -47,9 +47,9 @@ Many of the methods we will examine in these workshops depend on basic concepts 
 
 Beneath our discussions of classification, regression, and probability distributions in Chapters 2, 3, and 4 lies the tricky problem of model fitting. We’ve seen what classification and regression models look like, but we still haven’t addressed how to fit these models using training data. Linear and logistic regression models are fit using a technique called maximum likelihood (ML) estimation, in which the model parameters are adjusted to maximize the joint probability of the observed data, or likelihood, given the model.
 
-#### NOTES                
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5.pdf)                
 #### AUDIO  
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5.pdf)
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5-guide.pdf)
 
 ----------------
 
@@ -57,9 +57,9 @@ Beneath our discussions of classification, regression, and probability distribut
 
 Hypothesis testing is a central idea underpinning much of the analysis in the clinical and biomedical research literature. There are multiple approaches to hypothesis testing, but the most common is null hypothesis testing, which was developed by the statistician R.A. Fisher. In null hypothesis testing, one creates a model of how the data should look under default conditions and then quantifies the observed data’s deviation from that model using a test statistic. If the test statistic is large enough, it means there is evidence that the default position is incorrect. The statisticians Jerzy Neyman and Karl Pearson developed a different approach to hypothesis testing based on the idea of model comparison. In their approach, one sets up different models and then quantifies each model’s fit to the data; the hypothesis test is used to see whether one model’s fit to the data is significantly better than another’s. We see the Neyman-Pearson philosophy reflected in techniques such as power calculations and likelihood ratio tests.
 
-#### NOTES                
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6.pdf)              
 #### AUDIO  
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6.pdf)
+#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6-guide.pdf)
 
 
 
