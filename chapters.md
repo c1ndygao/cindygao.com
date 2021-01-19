@@ -9,18 +9,14 @@ Welcome to "Modern Clinical Data Science", a pilot course and discussion group f
 
 What is data science? We go through 14 examples of project ideas from real students, including physicians and operational/population health team members, and see how they reflect different types of questions. Key terms: supervised vs. unsupervised learning, classification vs. regression, time-to-event outcome, observational study vs. experiment.
 
-#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf)            
-#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1-guide.pdf)
-#### [VIDEO](https://vimeo.com/502178788/a23f7fb5a4)
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf) | #### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1-guide.pdf) | #### [VIDEO](https://vimeo.com/502178788/a23f7fb5a4)
 
 ----------
 ### 2 : The Basics of Classification
 
 We investigate three different ways of solving classification problems: logistic regression, K-nearest neighbors (KNN), and decision trees. Using a simple ER readmissions example, we visualize the decision boundaries produced by each of these algorithms and discuss their advantages and disadvantages. Key terms: training and test data, feature, feature space, extrapolation, decision boundary, hyperparameter.
 
-#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf)                
-#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2-guide.pdf)
-#### [VIDEO](https://vimeo.com/502177988/c2d71bd31f)   
+### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf) | ### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2-guide.pdf) | ### [VIDEO](https://vimeo.com/502177988/c2d71bd31f)   
 
 ----------------
 
