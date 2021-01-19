@@ -10,9 +10,8 @@ Welcome to "Modern Clinical Data Science", a pilot course and discussion group f
 What is data science? We go through 14 examples of project ideas from real students, including physicians and operational/population health team members, and see how they reflect different types of questions. Key terms: supervised vs. unsupervised learning, classification vs. regression, time-to-event outcome, observational study vs. experiment.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1.pdf)            
-#### AUDIO 
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1-guide.pdf)
-
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch1-guide.pdf)
+#### [VIDEO](https://vimeo.com/502178788/a23f7fb5a4)
 
 ----------
 ### 2 : The Basics of Classification
@@ -20,8 +19,8 @@ What is data science? We go through 14 examples of project ideas from real stude
 We investigate three different ways of solving classification problems: logistic regression, K-nearest neighbors (KNN), and decision trees. Using a simple ER readmissions example, we visualize the decision boundaries produced by each of these algorithms and discuss their advantages and disadvantages. Key terms: training and test data, feature, feature space, extrapolation, decision boundary, hyperparameter.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2.pdf)                
-#### AUDIO     
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2-guide.pdf)
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch2-guide.pdf)
+#### [VIDEO](https://vimeo.com/502177988/c2d71bd31f)   
 
 ----------------
 
@@ -30,9 +29,8 @@ We investigate three different ways of solving classification problems: logistic
 We see how regression differs from classification and look at three regression algorithms that parallel the classification algorithms from Chapter 2. We visualize the regression problem using the same features as in Chapter 2 but a different outcome: the level of a "disease recurrence" biomarker. We see how the same machinery of linear models, KNN, and decision trees can be applied in a regression context.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3.pdf)                
-#### AUDIO   
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3-guide.pdf)
-
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch3-guide.pdf)
+#### [VIDEO](https://vimeo.com/502196350/b82f79fa5d)
 ----------------
 
 ### 4 : Probability Distributions
@@ -40,19 +38,17 @@ We see how regression differs from classification and look at three regression a
 We examine core concepts from probability through examples from several important probability distributions: the Gaussian (normal) distribution, Bernoulli distribution, binomial, Poisson, geometric, and exponential. We briefly discuss the chi-squared, T, and F distributions, which will be revisited later in Chapter 6 (Introduction to Hypothesis Testing). These ideas are important for understanding linear and logistic regression models, other probabilistic models, and most hypothesis tests.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4.pdf)                
-#### AUDIO   
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4-guide.pdf)
-
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch4-guide.pdf)
+#### [VIDEO](https://vimeo.com/502212195/4d7f328c2b)
 ----------------
 
 ### 5 : The Basics of Maximum Likelihood Estimation
 
 Although it's usually thought of as an advanced topic, maximum likelihood estimation is key to understanding how many types of models are fit using software. Here we discuss the core ideas behind maximum likelihood estimation through simple examples, using the same distributions we saw in Chapter 4. Key terms: likelihood, log-likelihood, optimization.
 
-#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5.pdf)                
-#### AUDIO  
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5-guide.pdf)
-
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5.pdf)                 
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch5-guide.pdf)
+#### [VIDEO](https://vimeo.com/502246270/ebf506ece7)
 ----------------
 
 ### 6 : Introduction to Hypothesis Testing
@@ -60,104 +56,91 @@ Although it's usually thought of as an advanced topic, maximum likelihood estima
 We examine the most common type of hypothesis testing, null hypothesis testing, through three examples: the Z test, Pearson's chi-squared test, and [several forms of] the T-test. By seeing how different questions can be answered using the same formalism, we think through the meaning of terms like null hypothesis, null distribution, test statistic, and significance level. We address p-values only briefly and do not touch on confidence intervals; those will be covered in later chapters.
 
 #### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6.pdf)              
-#### AUDIO  
-#### [CHAPTER GUIDE](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6-guide.pdf)
-
-
-
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch6-guide.pdf)
+#### [VIDEO](https://vimeo.com/502270109/31c068caab)
 
 ----------
-# below is old draft need to be replaced
 
+### 7 : Building a Decision Tree
 
+This chapter focuses on the conceptual and algorithmic details behind decision trees. We look at how tree building algorithms choose features based on measures of impurity/uncertainty, such as entropy or the Gini coefficient. We examine a decision tree built on the Wisconsin Breast Cancer Dataset and build a tree of our own from scratch using the ID3 algorithm on a small (10-sample) dataset. Following on our discussion in Chapters 2 and 3, we look at how the same basic algorithm can be used for both classification and regression. (25:32; 11 pages)
 
-
-
-### 6 : Generalized Linear Models*
-
-Generalized linear models (GLMs) are a class of supervised learning models that form a convenient bridge between machine learning and traditional statistics. The basic idea behind a GLM is that your outcome variable (a.k.a. response variable, see Chapter 2), y, follows a probability distribution. The expected value, or mean, of that distribution is related to the values of the predictors (a.k.a. covariates; see Chapters 2 and 3), x1, . . . , xp in a model- specific way.
-
-#### NOTES                
-#### AUDIO  
-#### CHAPTER GUIDE
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch7.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch7-guide.pdf)
+#### [VIDEO](https://vimeo.com/502291436/952ae9a371)
 
 ----------------
 
-### 7 : Fitting and Interpreting GLMs
+### 8 : Interpreting a Linear Regression Model
 
-Generalized linear models (Chapter 6) are just one way to approach super- vised learning. However, they are by far the most common approach in the clinical research literature. Linear and logistic regression are established, stan- dard methods for clinical data analysis in contexts where you want to relate the effects of one or more predictors to an outcome that is a number or a class (e.g. yes/no). Because of this, it is important to know how to interpret these models – e.g., what the coefficients, standard errors, and model diagnostics mean – and how to fit them using software.
+Linear regression models are one of the workhorses of clinical data science. This chapter gets into the details behind the model output. Where do the model coefficients, standard errors, and hypothesis tests come from? What is a residual and why do we care about it? What are the rest of the diagnostics reported by R in the model summary? We examine the actual numbers behind our model from Chapter 3, as well as a larger model that predicts mortality from pollution levels in small cities. (26:44; 11 pages)
 
-#### NOTES                
-#### AUDIO  
-#### CHAPTER GUIDE
-
-----------------
-
-### 8 : Hypothesis Testing
-
-Hypothesis testing is the central idea underpinning most of the analysis you’ll find in the clinical and biomedical research literature . There are multiple types of hypothesis testing, but the most common type is null hypothesis testing, most of the theory of which originated from the statistician R.A. Fisher. In null hypothesis testing, you create a model of how your data should look under default conditions, and then you look to see whether your data deviate appreciably from the model. You quantify your data’s deviation from the model by calculating a test statistic. One can view this type of hypothesis testing as a form of anomaly detection.
-
-#### NOTES                
-#### AUDIO  
-#### CHAPTER GUIDE
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch8.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch8-guide.pdf)
+#### [VIDEO](https://vimeo.com/502316223/6159a6417b)
 
 ----------------
 
-### 9 : Decision Trees
+### 9 : Interpreting a Logistic Regression Model
 
-Decision trees were developed as an alternative to neural networks in the 1970s. They can be used either for classification or regression. There are several algorithms for fitting decision trees, all of which are heuristic, because the general problem of learning an optimal decision tree for a dataset is NP- complete. All algorithms for tree learning are greedy and are not guaranteed to give the optimal solution.
+This chapter is similar to Chapter 8 but focuses on logistic regression models, which are used in supervised learning contexts where the outcome is binary yes/no. Although we first encountered logistic regression as an example of a classification algorithm in Chapter 2, the math behind it is close to that of linear regression, and software output for the two models is similar. We talk about how to interpret the model coefficients and diagnostics, but save a full treatment of maximum likelihood, deviance residuals, etc. for a later chapter. (22:13; 8 pages)
 
-#### NOTES                
-#### AUDIO  
-#### CHAPTER GUIDE
-
-----------------
-
-### 10 : The Bias-Variance Tradeoff
-
-In classification, model complexity (i.e. the effective number of parameters the model must fit) is typically related to the intricacy and complexity of the decision boundary; the more parameters in the model, the more complex the boundary.
-
-#### NOTES                
-#### AUDIO  
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch9.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch9-guide.pdf)
+#### [VIDEO](https://vimeo.com/502330703/55901a0803)
 
 ----------------
 
-### 11 : Feature Engineering and Feature Selection
+### 10 : A Brief Note on Feature Engineering
 
-The methods we’ve studied in Chapters 2 and 3, as well as all other supervised (and unsupervised) machine learning algorithms, all depend on the concept of a feature. A feature is some aspect of each training example that the model designer believes will influence its relationship to the outcome, or that captures some aspect of the data in a way that is relevant to the problem he/she is trying to solve. Before any algorithm can be applied, therefore, it is necessary to decide how to represent the data: which features to include and how to extract them from the raw data. This task is called feature engineering. In most cases, the model designer will also want to incorporate some form of feature selection: a process that automatically or semi-automatically decides which features are most relevant to the model and discards the others.
+This short chapter takes a closer look at features and the role of the data scientist in choosing appropriate features for a problem. We talk about how to code different classes of features (numbers, binary yes/no, categories) and briefly touch on how transformations can be used to adjust features. We look back at the features used in Chapters 2, 3, 7, 8, and 9 and how they were coded. (; 5 pages)
 
-#### NOTES                
-#### AUDIO  
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch10.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch10-guide.pdf)
+#### [VIDEO]()
+
+----------------
+
+### 11 : Survival Data and the Kaplan-Meier Curve
+
+This chapter is our entrypoint into time-to-event data and survival models. We talk about the concept of censoring and its effect on models. We learn about the nonparametric Kaplan-Meier estimator and spend the bulk of the chapter constructing Kaplan-Meier curves by hand for an ovarian cancer dataset. Key terms: survival, hazard, censoring, Kaplan-Meier estimator. (; 8 pages)
+
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch11.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch11-guide.pdf)
+#### [VIDEO]() 
 
 ----------------
 
 ### 12 : Lasso, Ridge, and Elastic Net
 
 
-#### NOTES                
-#### AUDIO  
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
 
 ----------------
 
 ### 13 : Random Forests
 
 
-#### NOTES                
-#### AUDIO  
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]() 
 
 ----------------
 
 ### 14 : Boosting
 
-
-#### NOTES                
-#### AUDIO  
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]() 
 
 ----------------
 
 ### 15 : Missing Data
 
 
-#### NOTES                
-#### AUDIO  
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
 
