@@ -5,20 +5,20 @@ title: chapters
 
 Welcome to "Modern Clinical Data Science", a pilot course and discussion group for data-science-interested physicians and colleagues in the Dept. of Medicine at Mount Sinai. These notes are designed to introduce key data science concepts little by little, in small pieces. Each chapter contains notes and a slide presentation of key concepts (chapter guide). All presentations take less than 15 minutes.
 
-#### 1 : [A Taxonomy of Problems](chapters/ch01.md)
-#### 2 : The Basics of Classification
-#### 3 : The Basics of Regression
-#### 4 : Probability Distributions
-#### 5 : The Basics of Maximum Likelihood Estimation
-#### 6 : Introduction to Hypothesis Testing
-#### 7 : Building a Decision Tree
-#### 8 : Interpreting a Linear Regression Model
-#### 9 : Interpreting a Logistic Regression Model
-#### 10 : A Brief Note on Feature Engineering
-#### 11 : Survival Data and the Kaplan-Meier Curve
+#### [Chapter 1 : A Taxonomy of Problems](chapters/ch01.md)
+#### [Chapter 2 : The Basics of Classification](chapters/ch02.md)
+#### [Chapter 3 : The Basics of Regression](chapters/ch03.md)
+#### [Chapter 4 : Probability Distributions](chapters/ch04.md)
+#### [Chapter 5 : The Basics of Maximum Likelihood Estimation](chapters/ch05.md)
+#### [Chapter 6 : Introduction to Hypothesis Testing](chapters/ch06.md)
+#### [Chapter 7 : Building a Decision Tree](chapters/ch07.md)
+#### [Chapter 8 : Interpreting a Linear Regression Model](chapters/ch08.md)
+#### [Chapter 9 : Interpreting a Logistic Regression Model](chapters/ch09.md)
+#### [Chapter 10 : A Brief Note on Feature Engineering](chapters/ch10.md)
+#### [Chapter 11 : Survival Data and the Kaplan-Meier Curve](chapters/ch11.md)
 
 
-
+--------------------
 
 ### 1 : A Taxonomy of Problems
 
