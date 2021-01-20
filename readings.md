@@ -3,8 +3,8 @@ layout: page
 title: readings
 ---
 
-#### [Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)
-- Ewout Steyerberg, Patrick Bossuyt, Kerry Lee. American Heart Journal, 2000 
+**[Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)**  
+Ewout Steyerberg, Patrick Bossuyt, Kerry Lee. American Heart Journal, 2000 
 
 #### [An Introduction to Statistical Learning, Ch. 4: Classification](https://www.springer.com/gp/book/9781461471370)
 - Daniela Witten et al. 2013
@@ -39,7 +39,7 @@ Leo Breiman. Statistical Science, 2001
 #### [A Study of K-Nearest Neighbour as an Imputation Method](https://sites.icmc.usp.br/gbatista/files/his2002.pdf)  
 Gustavo Batista, Maria Carolina Monard. HIS, 2002
 
-#### [Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf) 
+#### [Using the ADAP Learning Algorithm to Forecast the Onset of Diabetes Mellitus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf)
 Jack Smith et al. Proceedings of the Annual Symposium on Computer Application in Medical Care, 1988
 
 #### [Why Doctors Hate Their Computers](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)  
