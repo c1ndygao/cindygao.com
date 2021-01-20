@@ -3,10 +3,10 @@ layout: page
 title: readings
 ---
 
-#### [Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)  
+#### [Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)
 Ewout Steyerberg, Patrick Bossuyt, Kerry Lee. American Heart Journal, 2000 
 
-#### [An Introduction to Statistical Learning, Ch. 4: Classification](https://www.springer.com/gp/book/9781461471370)   
+#### [An Introduction to Statistical Learning, Ch. 4: Classification](https://www.springer.com/gp/book/9781461471370)
 Daniela Witten et al. 2013
 
 ### [An introduction to variable and feature selection](https://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) 
