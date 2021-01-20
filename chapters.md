@@ -6,6 +6,21 @@ title: chapters
 Welcome to "Modern Clinical Data Science", a pilot course and discussion group for data-science-interested physicians and colleagues in the Dept. of Medicine at Mount Sinai. These notes are designed to introduce key data science concepts little by little, in small pieces. Each chapter contains notes and a slide presentation of key concepts (chapter guide). All presentations take less than 15 minutes.
 
 ### 1 : A Taxonomy of Problems
+### 2 : The Basics of Classification
+### 3 : The Basics of Regression
+### 4 : Probability Distributions
+### 5 : The Basics of Maximum Likelihood Estimation
+### 6 : Introduction to Hypothesis Testing
+### 7 : Building a Decision Tree
+### 8 : Interpreting a Linear Regression Model
+### 9 : Interpreting a Logistic Regression Model
+### 10 : A Brief Note on Feature Engineering
+### 11 : Survival Data and the Kaplan-Meier Curve
+
+
+
+
+### 1 : A Taxonomy of Problems
 
 What is data science? We go through 14 examples of project ideas from real students, including physicians and operational/population health team members, and see how they reflect different types of questions. Key terms: supervised vs. unsupervised learning, classification vs. regression, time-to-event outcome, observational study vs. experiment.
 
