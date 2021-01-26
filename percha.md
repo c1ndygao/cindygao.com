@@ -11,10 +11,10 @@ Aside from research, Beth is committed to expanding the understanding and use of
 
 Beth received her PhD in Biomedical Informatics from Stanford University, her MPH in Biostatistics and Epidemiology from the University of Michigan, and her BS in Physics, Biochemistry and Math (also from UM).
 
-**Research Topics**
+#### Research Topics
 Biomedical Informatics, Biostatistics, Computer Simulation, Education, Healthcare, Mathematical Modeling of Biomedical Systems, Technology & Innovation, Translational Research
 
-**Education**
+#### Education
 BS, University of Michigan
 MPH, University of Michigan
 PhD, Stanford University
