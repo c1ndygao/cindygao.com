@@ -30,6 +30,9 @@ Bethany Percha, Annual Review of Biomedical Data Science, 2021
 **[The Null Ritual: What you always wanted to know about significance testing but were afraid to ask](https://pdfs.semanticscholar.org/b308/ab0e4a8b7fea898d5a11fb41496c6c2be057.pdf?_ga=2.184276774.1419783431.1610479015-824802640.1610479015)**  
 Gerd Gigerenzer et al. The Sage handbook of quantitative methodology for the social sciences, 2004
 
+**[Random survival forests](https://projecteuclid.org/euclid.aoas/1223908043)**
+Hemant Ishwaran et al. Annals of Applied Statistics 2008   
+
 **[A short tutorial of GPower](http://www.tqmp.org/Content/vol03-2/p051/p051.pdf)**  
 Axel Buchner et al. Tutorials in quantitative methods for psychology, 2007
 
