@@ -96,7 +96,7 @@ This chapter is our entrypoint into time-to-event data and survival models. We t
 
 ----------------
 
-### 12 : Lasso, Ridge, and Elastic Net
+### 12 : [Lasso, Ridge, and Elastic Net](chapters/ch12.md)
 
 
 #### [NOTES]()               
