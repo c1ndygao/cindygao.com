@@ -15,6 +15,6 @@ Beth received her PhD in Biomedical Informatics from Stanford University, her MP
 Biomedical Informatics, Biostatistics, Computer Simulation, Education, Healthcare, Mathematical Modeling of Biomedical Systems, Technology & Innovation, Translational Research
 
 #### Education
-BS, University of Michigan
-MPH, University of Michigan
-PhD, Stanford University
+BS, University of Michigan  
+MPH, University of Michigan  
+PhD, Stanford University  
