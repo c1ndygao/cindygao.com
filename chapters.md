@@ -105,7 +105,7 @@ This chapter is our entrypoint into time-to-event data and survival models. We t
 
 ----------------
 
-### 13 : Random Forests
+### 13 : [Random Forests](chapters/ch13.md)
 
 
 #### [NOTES]()               
