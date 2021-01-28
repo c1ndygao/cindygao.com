@@ -98,10 +98,9 @@ This chapter is our entrypoint into time-to-event data and survival models. We t
 
 ### 12 : [Generalized Linear Models](chapters/ch12.md)
 
+Generalized linear models (GLMs) allow us to solve different types of supervised learning problems using the same basic framework (linear combination of predictors, model the outcome as a probability distribution, use maximum likelihood estimation to fit). Linear and logistic regression are examples of GLMs; we introduce Poisson regression as a third example. We talk about how the models are fit using the analogy of hill climbing. Key terms: link function, gradient ascent, Fisher scoring. (25:13; 14 pages)
 
-#### [NOTES]()               
-#### [SLIDES]()
-#### [VIDEO]()
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch12.pdf) | [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch12-guide.pdf) | [VIDEO](https://vimeo.com/505717483/e48bc2b5d6)
 
 ----------------
 
