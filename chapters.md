@@ -108,7 +108,7 @@ Generalized linear models (GLMs) allow us to solve different types of supervised
 
 This chapter introduces us to ensemble methods, in which input from tens or hundreds of diverse models is combined to produce a final answer. The random forest is one way to create an ensemble of decision trees that has higher predictive accuracy than any individual tree. We examine different splitting criteria, model parameters, and variable importance measures. We see how random forests can be used for different supervised learning problems, including classification, regression, and survival analysis. (; 13 pages)
 
-#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch13.pdf) | [SLIDES]() | #### [VIDEO]()  
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch13.pdf) | [SLIDES]() | [VIDEO]()  
 
 ----------------
 
