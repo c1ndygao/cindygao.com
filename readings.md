@@ -6,6 +6,9 @@ title: readings
 **[Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)**  
 Ewout Steyerberg, Patrick Bossuyt, Kerry Lee. American Heart Journal, 2000 
 
+**[Illustrating Informed Presence Bias in Electronic Health Records Data: How Patient Interactions with a Health System Can Impact Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5994954/)**  
+Matthew Phelan et al. The Journal for Electronic Health Data and Methods, 2017  
+
 **[An Introduction to Statistical Learning, Ch. 4: Classification](https://www.springer.com/gp/book/9781461471370)**  
 Daniela Witten et al. 2013
 
@@ -29,6 +32,9 @@ Bethany Percha, Annual Review of Biomedical Data Science, 2021
 
 **[The Null Ritual: What you always wanted to know about significance testing but were afraid to ask](https://pdfs.semanticscholar.org/b308/ab0e4a8b7fea898d5a11fb41496c6c2be057.pdf?_ga=2.184276774.1419783431.1610479015-824802640.1610479015)**  
 Gerd Gigerenzer et al. The Sage handbook of quantitative methodology for the social sciences, 2004
+
+**[Opportunities and challenges in developing risk prediction models with electronic health records data: a systematic review](https://academic.oup.com/jamia/article/24/1/198/2631444?login=true)**  
+Benjamin Goldstein et al. JAMIA, 2016  
 
 **[Potential Biases in Machine Learning Algorithms Using Electronic Health Record Data](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2697394)**   
 Milena Gianfrancesco et al. JAMA Internal Medicine, 2018
