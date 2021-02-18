@@ -42,6 +42,9 @@ Milena Gianfrancesco et al. JAMA Internal Medicine, 2018
 **[Random survival forests](https://projecteuclid.org/euclid.aoas/1223908043)**  
 Hemant Ishwaran et al. Annals of Applied Statistics 2008   
 
+**[Risk Prediction With Electronic Health Records: The Importance of Model Validation and Clinical Context](https://jamanetwork.com/journals/jamacardiology/article-abstract/2566165)**  
+Benjamin Goldstein et al. JAMA Cardiology 2016
+
 **[A short tutorial of GPower](http://www.tqmp.org/Content/vol03-2/p051/p051.pdf)**  
 Axel Buchner et al. Tutorials in quantitative methods for psychology, 2007
 
