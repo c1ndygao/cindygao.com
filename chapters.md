@@ -112,7 +112,7 @@ This chapter introduces us to ensemble methods, in which input from tens or hund
 
 ----------------
 
-### 14 : Boosting
+### 14 : Boosting (vs. Random Forests), Bias-Variance Tradeoff Revisited, Lasso/Ridge Regression
 
 #### [NOTES]()               
 #### [SLIDES]()
@@ -120,7 +120,55 @@ This chapter introduces us to ensemble methods, in which input from tens or hund
 
 ----------------
 
-### 15 : Missing Data
+### 15 : Cox Proportional Hazards Models vs. Random Survival Forests
+
+
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
+
+----------------
+
+### 16 : Deep Learning Basics, Architectures, Applications
+
+
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
+
+----------------
+
+### 17 : Weak and Distant Supervision, Imbalanced Training Sets, Active Learning
+
+
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
+
+
+----------------
+
+### 18 : Competing Risks and Multi-State Models; Regression vs. Random Forest Approaches
+
+
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
+
+
+----------------
+
+### 19 : Natural Language Processing, Clinical NLP Software & State of the Art
+
+
+#### [NOTES]()               
+#### [SLIDES]()
+#### [VIDEO]()
+
+
+----------------
+
+### 20 : Unsupervised Learning (Clustering, PCA, Mixture Models) and Course Review
 
 
 #### [NOTES]()               
