@@ -3,6 +3,12 @@ layout: page
 title: readings
 ---
 
+**[Boosted Trees for Risk Prognosis](http://proceedings.mlr.press/v85/bellot18a.html)**
+Alexis Bellot, Mihaela van der Schaar. Proceedings of the 3rd Machine Learning for Healthcare Conference, 2018
+
+**[The Boosting Approach to Machine Learning An Overview](https://www.cs.princeton.edu/courses/archive/spr07/cos424/papers/boosting-survey.pdf)**
+Robert Schapire, Nonlinear Estimation and Classification, Springer, 2003
+
 **[Clinical trials in acute myocardial infarction: should we adjust for baseline characteristics?](https://www.sciencedirect.com/science/article/abs/pii/S0002870300900012?via%3Dihub)**  
 Ewout Steyerberg, Patrick Bossuyt, Kerry Lee. American Heart Journal, 2000 
 
