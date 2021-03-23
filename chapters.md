@@ -112,47 +112,54 @@ This chapter introduces us to ensemble methods, in which input from tens or hund
 
 ----------------
 
-### 14 : Boosting (vs. Random Forests), Bias-Variance Tradeoff Revisited, Lasso/Ridge Regression
+### 14 : Introduction to Boosting
 
-#### [NOTES]()               
-#### [SLIDES]()
-#### [VIDEO]() 
+Boosting is another ensemble algorithm (actually, a meta-algorithm) that creates an ensemble of decison trees, or other weak learners, in a completely different way from random forests. We look at AdaBoost, the first practical boosting algorithm, and go through a step-by-step example on a small dataset. We compare and contrast boosting and random forests. (26:35; 12 pages)
+
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch14.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch14-guide.pdf)
+#### [VIDEO](https://vimeo.com/522576437/2c1511e002) 
 
 ----------------
 
-### 15 : Cox Proportional Hazards Models vs. Random Survival Forests
+### 15 : Model Quality and the Bias-Variance Tradeoff
 
+This chapter discusses the general problem of finding the best model for a given problem. We begin by discussing how to quantify error and examine Harrell's concordance index for survival models as an analogy to misclassification error and MSE for classification and regression. We discuss the difference between goodness of fit and generalizability, how each is measured using training and test error, and how to handle high bias vs. high variance situations. We continue our discussion of random forests and boosting using this framework. Key terms: bias-variance tradeoff, overfitting, underfitting. (; 9 pages)
 
-#### [NOTES]()               
-#### [SLIDES]()
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch15.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch15-guide.pdf)
 #### [VIDEO]()
 
 ----------------
 
-### 16 : Deep Learning Basics, Architectures, Applications
+### 16 : Feature Selection
 
+We discuss the general idea of feature selection, comparing methods that are more common in the clinical research literature (univariate vs. multivariate regression models) with embedded methods from statistical learning (decision trees, regularized regression). We differentiate filter, wrapper, and embedded methods and provide examples of each. (; 14 pages)
 
-#### [NOTES]()               
-#### [SLIDES]()
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch16.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch16-guide.pdf)
 #### [VIDEO]()
 
 ----------------
 
-### 17 : Weak and Distant Supervision, Imbalanced Training Sets, Active Learning
+### 17 : Lasso, Ridge, and Elastic Net
 
+This short chapter outlines the basics of penalized regression for feature selection and model regularization, including the lasso (L1), ridge (L2) and elastic net penalties. We fit many regularized regression models with different regularization parameters to the same 10-person dataset and examine the effect of parameter changes on model coefficients. Regularization is an important topic for many areas of machine learning, not just regression. (; 5 pages)
 
-#### [NOTES]()               
-#### [SLIDES]()
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch17.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch17-guide.pdf)
 #### [VIDEO]()
 
 
 ----------------
 
-### 18 : Competing Risks and Multi-State Models; Regression vs. Random Forest Approaches
+### 18 : The Cox Proportional Hazards Model
+
+Here we examine the main workhorse of survival analysis: the Cox proportional hazards model. We re-examine the concepts of survival, hazard, and cumulative hazard and calculate a simple example of cumulative hazard using the Nelson-Aalen estimator. We then examine the basic form of the Cox model and the assumptions behind the model, talking about model interpretation, fitting, and prediction. Finally, we look at some model diagnostics and talk about strategies for dealing with situations where the model assumptions are violated. Part III of the video guide also contains a section on alternatives to the Cox model. (; 16 pages)
 
 
-#### [NOTES]()               
-#### [SLIDES]()
+#### [NOTES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch18.pdf)               
+#### [SLIDES](https://github.com/blpercha/mcds-notes/blob/main/pdf/ch18-guide.pdf)
 #### [VIDEO]()
 
 
